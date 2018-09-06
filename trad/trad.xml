@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <comp>Développeur toutes compétences</comp>
+        <about>DESCRIPTION</about>
+        <pres>Bonjour, je m'appelle David Goerig. Je vis actuellement à Village-Neuf, en France, à la frontière de Bâle en Suisse et de l'Allemagne. Je suis actuellement étudiant en développement à Epitech Toulouse. Je fais du développement back-end et front-end depuis 3 ans professionnellement et à l'école, mais j'ai de nombreuses années de pratique indépendante. Je m'intéresse à toutes sortes de programmation de logiciels, j'essaie de me développer avec l'apprentissage du machine learning.</pres>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Créé par David Goerig</created>
+    </fr>
+    <en>
+        <comp>Full stack developer</comp>
+        <about>ABOUT</about>
+        <pres>Hello, my name is David Goerig. I actually live in Village-Neuf in France at the border of Basel in Switzerland and germany. I'm actually study development in Epitech Toulouse. I do back-end and front-end developement since 3 years professionaly and at school, but I have many years of independent practice. I'm interested in all kinds of software programming, but actually I try to develop myself with the machine learning.</pres>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

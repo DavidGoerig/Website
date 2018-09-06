@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pres>PROJET EFFECTUE CHEZ CLEMESSY</pres>
+        <pa>Le sujet de mon stage est le développement d'un « Editeur de synoptiques » permettant le suivi et le pilotage d'installations industrielles. Ces synoptiques manipulent des informations gérées par un serveur OPC, transmise sous forme de variables, collectant ses informations sur des automates de terrain.</pa>
+        <pb>Un synoptique désigne une présentation graphique, qui permet de saisir d'un seul coup d'œil un système complexe. L'adjectif « synoptique » évoque l'idée de « voir en un même ensemble ». </pb>
+        <pc>Ici le but de ces synoptiques est de représenter les informations que différents automates de terrains transmettent à un serveur OPC. Ces synoptiques sont représentés sous la forme de « dessin vectoriel» où chaque élément représente un retour d’un automate. Mais ces synoptiques permettent également le pilotage des variables des automates.</pc>
+        <pd>Le sujet s'intègre dans un projet global de modernisation (migration) du produit existant de Gestion Technique Centralisée (GTC / GTB) nommé Synauto vers une nouvelle version entièrement WEB GTC-WEB. J’ai été amené à réaliser en plus du sujet principal des travaux sur cette application. Ces travaux consistaient majoritairement en la réalisation de synoptiques pour GTC-WEB, la version modernisée de l’ancienne GTC.</pd>
+        <pe>La réalisation de cet éditeur m’a permis de voir toutes les phases de développement : Analyse, développement, tests et recette, mise en service, documentation.  Les technologies utilisées ont été : JavaScript, Java, Bootstrap, AngularJS, HTML5, CSS3, Hibernate (base de données Oracle).</pe>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Crée par David Goerig</created>
+        <dld>Télécharger le rapport de stage</dld>
+    </fr>
+    <en>
+        <pres>INTERNSHIP PROJECT IN CLEMESSY</pres>
+        <pa>The subject of my internship is the development of a "synoptic editor" for monitoring and controlling industrial installations. These synoptics manipulate information managed by an OPC server, transmitted in the form of variables, collecting its information on field PLCs.</pa>
+        <pb>A synoptic designates a graphic presentation, which makes it possible to catch a complex system at a glance. The adjective "synoptic" evokes the idea of ​​"seeing together".</pb>
+        <pc>Here the purpose of these synoptics is to represent the information that different PLCs transmit to an OPC server. These synoptics are represented in the form of "vector drawing" where each element represents a return of an automaton. But these synoptics also allow the control of automata variables.</pc>
+        <pd>The subject is part of a global modernization project (migration) of the existing product of Centralized Technical Management (GTC / GTB) named Synauto to a new fully WEB GTC-WEB version. I was led to realize in addition to the main subject of work on this application. This work consisted mainly in the realization of synoptic for GTC-WEB, the modernized version of the old GTC.</pd>
+        <pe>The realization of this editor allowed me to see all the phases of development: Analysis, development, tests and recipe, commissioning, documentation. The technologies used were: JavaScript, Java, Bootstrap, AngularJS, HTML5, CSS3, Hibernate (Oracle database).</pe>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+        <dld>Download internship report</dld>
+    </en>
+</traduction>

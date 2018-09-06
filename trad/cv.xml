@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pres>Développeur toutes compétences</pres>
+        <education>SCOLARITE</education>
+        <master>Maitrise en développement</master>
+        <year>Actuellement en 3e année.</year>
+        <progress>EN COURS</progress>
+        <faculty>Faculté de mathématiques et d'économie</faculty>
+        <univ>Université de Strasbourg</univ>
+        <bacc>Baccalaureat scientifique</bacc>
+        <obtain>OBTENU EN JUIN 2013</obtain>
+        <work>TRAVAIL</work>
+        <clemresume>Création d'un éditeur de synoptique permettant la maintenance et le contrôle d'instalations manufacturière.</clemresume>
+        <clemdate>3 JUIN 2017 - 22 DECEMBRE 2017</clemdate>
+        <delph>Travail administratif</delph>
+        <delphresume>Travail administratif à la production, utilisation de office et de logiciel de gestion de stock et de personnel.</delphresume>
+        <delphsmr>TRAVAIL D'ETE 2016</delphsmr>
+        <roche>Apprentissage en frêt</roche>
+        <rocheresume>Travaux administratifs et logistiques de 2 mois au frêt. Utilisation de Office et de SAP.</rocheresume>
+        <rocheint>APPRENTISSAGE 2014</rocheint>
+        <rochesmr>Travaux administratifs et logistiques.</rochesmr>
+        <rochesmrres>Administrative work, work in the depot and in the IT department.</rochesmrres>
+        <rochesmrsmr>Travail d'étés 2012, 2013 et 2015</rochesmrsmr>
+        <skills>COMPETENCES</skills>
+        <dld>TELECHARGER CV:</dld>
+        <internpro>INTERNSHIP PROJECT IN CLEMESSY</internpro>
+
+        <epiena>J'ai eu la chance de participer au hackaton ENA / EPITECH. Ce hackaton était composé de trois parties: la première était un atelier de conception du 21 au 21 février et la seconde était un atelier de nudge les 2 et 3 mai; et enfin le Rush / Sprint (Finalisation des projets en mode Hackathon) et Jury les 13 et 14 juin. J'ai dû travailler sur l'attribution des subventions en France.</epiena>
+        <projectclem> Le sujet de mon stage est le développement d'un Editeur de synoptiques permettant le suivi et le pilotage d'installations manufacturières. J’ai pu être confronté à des technologies et des problèmes que je ne connaissais pas, j’ai eu la chance d’apprendre de nouveau langages mais j’ai également compris les phases d’élaboration d’un projet, de sa création à sa mise en place.</projectclem>
+        <raytracing>Le but de ce projet est de réaliser un programme qui crée des images de synthèse suivant la méthode du Raytracing à partir d’un fichier de configuration.</raytracing>
+        <trading>Le but de ce projet réalisé en Python était d'exploiter des outils de finances comme par example les bandes de Bollinger. J'ai ainsi réalisé un shell permettant de changer dynamiquement à chaque moment de la bourse récupéré à l'aide d'API de calculer les bandes de bollinger et de changer les caractéristiques. La seconde est un algorithme utilisant ces  outils économiques sur une période donnée.</trading>
+        <sony>J'ai eu la chance de participer au SpeedHack de Sony music France. J'ai été retenu pour la finale à quatre, grâce à un projet cherchant à proposer aux dénicheurs de talent un outil visant à faciliter leur travail.</sony>
+        <googlehc>J'ai eu la chance de participer au Google Hashcode 2017. Le Hash Code est un concours de programmation lié à des problématiques et défis concrets que peuvent devoir affronter les propres ingénieurs Google au fil de leur actualité technologique et de leurs problématiques métiers.</googlehc>
+        <firstmmo>J'ai réalisé un premier MMO avec Unity. Le mais de ce projet était de bien comprendre les échanges de données entre les différents joueurs et de comprendre comment ils peuvent partager un serveur commun.</firstmmo>
+        <bombermanr>J'ai réalisé une copie de Bomberman pouvant se jouer contre une IA ou en écran scindé. Ce projet comporte un diagramme UML et une documention complète. Il a été codé en C++ avec la librairie Irrlicht et est jouable sur Linux ou windows.</bombermanr>
+        <pythonml>J'ai étudié le livre "Introduction à l'apprentissage automatique avec Python" de Sarah Guido et Andreas Mueller. Il utilise les bibliothèques matplotlib et NumPy. J'ai aussi fait ma première application afin de tester ce que j'ai appris. Cela m'a vraiment donné les bases du machine learning.</pythonml>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Crée par David Goerig</created>
+    </fr>
+    <en>
+        <pres>Full stack developer</pres>
+        <education>EDUCATION</education>
+        <master>Master of Develoment</master>
+        <year>Actually in third year.</year>
+        <progress>IN PROGRESS</progress>
+        <faculty>Faculty of Mathematics and Economics</faculty>
+        <univ>University of Strasbourg</univ>
+        <bacc>Scientific Baccalaureate</bacc>
+        <obtain>OBTAINING IT IN JUNE 2013</obtain>
+        <work>WORK</work>
+        <clemresume>Creation of a synoptic editor allowing the monitoring and control of manufacturing facilities.</clemresume>
+        <clemdate>3 JULY 2017 - 22 DECEMBER 2017</clemdate>
+        <delph>Administrative work</delph>
+        <delphresume>Administrative work in the production, use of office and software of stock management and personnel.</delphresume>
+        <delphsmr>SUMMERJOB 2016</delphsmr>
+        <roche>Freight internship</roche>
+        <rocheresume>Administrative and logistical work for 2 months at freight. Using SAP and Office.</rocheresume>
+        <rocheint>INTERNSHIP 2014</rocheint>
+        <rochesmr>Administrative and logistical work internship.</rochesmr>
+        <rochesmrres>Administrative work, work in the depot and in the IT department.</rochesmrres>
+        <rochesmrsmr>SUMMERJOB 2012, 2013 et 2015</rochesmrsmr>
+        <skills>SKILLS</skills>
+        <dld>DOWNLOAD RESUME</dld>
+        <internpro>INTERNSHIP PROJECT IN CLEMESSY</internpro>
+
+
+        <epiena>I had the chance to participate in the ENA/EPITECH Hackaton. This hackaton consisted of three parts: the first one was a design workshop from the 21th February 21 to the 23. The second was a nudge Workshop the 2nd et 3rd may; and finally the Rush / Sprint (Finalization of projects in Hackathon mode) and the Jury the 13th and 14th of June. I had to work on the allocation of grants in France.<br/><br/></epiena>
+        <projectclem>The subject of my internship is the development of a Synoptic Editor allowing the monitoring and piloting of manufacturing facilities. I was confronted with technologies and problems that I did not know, I had the chance to learn new languages ​​but I also understood the phases of elaboration of a project, from its creation to its implementation.</projectclem>
+        <raytracing>The goal of this project is to create a program that creates computer-generated images using the Raytracing method using a configuration file.</raytracing>
+        <trading>The purpose of this project in Python was to exploit financial tools such as the Bollinger Bands. So I realized a shell to dynamically change at each moment of the purse retrieved using API to calculate the bollinger bands and change the characteristics. The second is an algorithm using these economic tools over a given period.</trading>
+        <sony>I had the chance to participate in the SpeedHack of Sony music France. I was selected for the final four, thanks to a project seeking to offer talented finders a tool to facilitate their work.</sony>
+        <googlehc>I had the chance to participate in Google Hashcode 2017. The Hash Code is a programming contest related to concrete issues and challenges that may face the Google engineers in their technological news and their business issues.</googlehc>
+        <firstmmo>I made a first MMO with Unity. The goal of this project was to understand the data exchange between the different players and understand how they can share a common server.</firstmmo>
+        <bombermanr>I made a copy of Bomberman that can be played against an AI or split screen. This project includes a UML diagram and a complete documention. It has been coded in C ++ with the Irrlicht library and is playable on Linux or windows.</bombermanr>
+        <pythonml>I studied the book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas Mueller. It use the matplotlib and NumPy libraries. I also made first program in order to test what i learned. It really gave me the basics of machine learning.</pythonml>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>
