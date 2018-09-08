@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>Le but de ce projet est de réaliser un programme qui crée des images de synthèse suivant la méthode du Raytracing à partir d’un fichier de configuration.</pa>
+        <pb>La méthode dite de Ray-Tracing est la suivante : pour chaque pixel (point de l'image), on détermine une couleur en fonction de l’intersection entre l’un des rayons lancés et l’un des objets se trouvant dans la scène que l'on observe à partir d’un point de celle-ci. Cette couleur est ensuite influencée par des effets ajoutés tels que les lumières, les ombres, la transparence…</pb>
+        <pc>Un bon nombre de formes ont été intégrées dans toutes les formes quadratiques, en limitant le calcul de toutes les formes simples à une formule commune. Les autres formes sont également intégrées au Tore. La transparence, les ombres, l'intégrations de lumières et de textures ont également été mis en place.</pc>
+        <pd>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pd>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Crée par David Goerig</created>
+    </fr>
+    <en>
+        <pa>The goal of this project is to create a program that creates computer-generated images using the Raytracing method from a configuration file.</pa>
+        <pb>The so-called Ray-Tracing method is as follows: for each pixel (point of the image), a color is determined according to the intersection between one of the launched rays and one of the objects found in the scene that we observe from a point of it. This color is then influenced by added effects such as lights, shadows, transparency ...</pb>
+        <pc>Many forms have been integrated into all quadratic forms, limiting the computation of all simple forms to a common formula. The other forms are also integrated in the torus. Transparency, shadows, integrations of lights and textures have also been put in place.</pc>
+        <pd>The sources and the documentation are present in the Github of the project (click on the icon).</pd>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

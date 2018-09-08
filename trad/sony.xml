@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>J'ai eu la chance de participer au Hackathon organisé par SONY MUSIC FRANCE dans les écoles EPITECH France. Le sujet était de trouver un moyen de redinamiser la recherche de nouveau talent.</pa>
+        <pb>Le Hackathon se déroulait sur deux semaines. La première semaine consistait en l'élaboration un projet en collaboration avec une école de Marketing ainsi qu'une école d'art, avec fin de semaine une finale entre les 16 groupes afin de savoir qui aura la chance de participer à la finale, qui consistait à élaborer ce projet lors de la seconde semaine.</pb>
+        <pc>Ainsi nous avons créé et imaginé le projet Digg'r. Cet outil a pour mission l’écrémage des données trouvées sur l’ensemble des supports digitaux : réseaux sociaux, plateformes de musique etc. Chaque agent peut faire ses propres recherches, plus précises grâce à des critères de sélection qu’il pourra lui même ajuster en fonction de ce qu’il souhaite trouver. Ainsi gagner du temps et en libérer pour pouvoir passer plus de temps à rencontrer les talents.</pc>
+        <pd>Etant le développeur de l'équipe, j'ai choisi de faire une Webbapp afin qu'elle soit portable un maximum (les images de l'application sont dans le compte rendu), le but étant d'utiliser un maximum les API afin d'avoir le plus de données possible. Les languages utilisés étaient ainsi ceux du Web (HTML, CSS avec Bootstrap, JS, PHP, SQL,...). </pd>
+        <dld>Consulter la fiche de présentation du projet.</dld>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Crée par David Goerig</created>
+    </fr>
+    <en>
+        <pa>I had the chance to participate in the Hackathon organized by SONY MUSIC FRANCE in EPITECH France schools. The subject was to find a way to redinamise the search for new talent.</pa>
+        <pb>The Hackathon took place over two weeks. The first week consisted of the development of a project in collaboration with a marketing school as well as an art school, with a weekend final between the 16 groups to find out who will have the chance to participate in the final, which was to develop this project during the second week.</pb>
+        <pc>So we created and imagined the Digg'r project. This tool has the mission of skimming the data found on all digital media: social networks, music platforms etc. Each agent can do his own research, more precise thanks to selection criteria that he can even adjust according to what he wants to find. So, save time and free up to spend more time meeting talent.</pc>
+        <pd>Being the developer of the team, I chose to make a Webbapp so that it is portable a maximum (the images of the application are in the report), the goal being to use a maximum the APIs in order to to have as much data as possible. The languages ​​used were those of the Web (HTML, CSS with Bootstrap, JS, PHP, SQL, ...).</pd>
+        <dld>Consult the project presentation sheet.</dld>
+
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

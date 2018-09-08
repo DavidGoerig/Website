@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>Le premier programme est un algorithme de trading, prenant pendant un an de nombreux flux de trésorerie (ici les devises cryptographiques, les matières premières, la bourse et le forex). J'ai travaillé principalement avec les bandes de bollinger, le but est la maximisation des profits en fonction de la fluctuation de plusieurs cours simultanés et de leurs évolutions.</pa>
+        <pb>Le second est un shell qui vous permet de montrer à tout moment les bandes de bollinger, d’acheter ou de vendre des devises, de modifier les paramètres de la bande de bollinger, etc.</pb>
+        <pc>Ils ont été réalisés en Python. Pour des exemples, j'ai fait un analyseur qui envoie toutes les devises de 2017, mais ce n'est que pour une utilisation hors ligne, nous pouvons facilement utiliser une API et prendre des devises quotidiennement.</pc>
+        <pd>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pd>
+
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Crée par David Goerig</created>
+    </fr>
+    <en>
+        <pa>The first programm is a small trade algorithm, taker over a year many cash flow (here crypto currencies, raw materials, stock exchange and forex). Principally work with the bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.</pa>
+        <pb>The second is a shell that allow you to show at any time the bollinger bands, to buy or sell currencies, change parameters of the bollinger band, etc.</pb>
+        <pc>They were made with Python. For exemples I made parser that send all currencies of 2017, but it is only for offline purpose, we can easily use an API and take daily currencies.</pc>
+        <pd>The sources and the documentation are present in the Github of the project (click on the icon).</pd>
+
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>
