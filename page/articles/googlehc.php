@@ -2,13 +2,16 @@
 session_start();
 
 if (isset($_GET['lang'])) {
-    $_SESSION['lang'] = $_GET['LANG'];
+    $_SESSION['lang'] = $_GET['lang'];
 }
 else {
     if (!isset($_SESSION['lang'])) {
         $_SESSION['lang'] = 'fr';
     }
 }
+$bibliotheque = simplexml_load_file('../../trad/sony.xml');
+$lang = $_SESSION['lang'];
+$_SESSION['xmllang'] = $bibliotheque->$lang;
 ?>
 
 <!DOCTYPE html>
@@ -76,61 +79,57 @@ else {
 		</div><!--/ #topbar-inner -->
 	</div><!--/ #section-topbar -->
 
-	<div id="headerarticlegoogle">
-		<div class="container">
-			<div class="row centered">
-				<div class="col-lg-12">
-					<h1>GOOGLE HASHCODE</h1>
-				</div><!--/.col-lg-12 -->
-			</div><!--/.row -->
-		</div><!--/.container -->
-	</div><!--/.#headerwrap -->
+    <div id="articlegoogle">
+        <div class="row">
+            <img src="../../assets/img/port06.bmp" style="width=180px;height = 120px;">
+        </div>
+        <div class="container">
+            <h5>GOOGLE HASH CODE</h5>
+            <div class="col-lg-8 col-lg-offset-2">
+                <h5><?php echo $_SESSION['xmllang']->pa;?></h5>
+                <h5><?php echo $_SESSION['xmllang']->pb;?></h5>
+            </div>
+        </div>
+    </div>
 
-	<div id="articleepiena">
-		<div class="container">
-			<h5>GOOGLE HASHCODE</h5>
-		</div>
-	</div>
+    <section id="contact" name="contact"></section>
+    <!--FOOTER DESCRIPTION -->
+    <div id="footwrap">
+        <div class="container">
+            <div class="row">
 
-	<section id="contact" name="contact"></section>
-	<!--FOOTER DESCRIPTION -->
-	<div id="footwrap">
-		<div class="container">
-			<div class="row">
-			
-				<div class="col-lg-2 col-lg-offset-1">
-					<h5>CONTACT</h5>
-				</div>
-				<div class="col-lg-6">
-					<p><t>Email</t><br/>
-						david.goerig@epitech.eu <br/>
-					</p>
-					<p><t>Adress</t><br/>
-						7 rue des Chouettes <br/>
-						68128 Village-Neuf <br/>
-						FRANCE <br/>
-					</p>
-				</div>
-				<div class="col-lg-3">
-					<p><sm>SOCIAL LINKS</sm></p>
-					<p>
-						<a href="https://twitter.com/david_goerig"><i class="icon-twitter"></i></a>
-						<a href="https://www.facebook.com/GoerigDavid"><i class="icon-facebook"></i></a>
-						<a href="https://www.linkedin.com/in/david-goerig-056212139/"><i class="icon-linkedin"></i></a>
+                <div class="col-lg-2 col-lg-offset-1">
+                    <h5>CONTACT</h5>
+                </div>
+                <div class="col-lg-6">
+                    <p><t>Email</t><br/>
+                        david.goerig@epitech.eu <br/>
+                    </p>
+                    <p><t><?php echo $_SESSION['xmllang']->adress;?></t><br/>
+                        7 rue des Chouettes <br/>
+                        68128 Village-Neuf <br/>
+                        FRANCE <br/>
+                    </p>
+                </div>
+                <div class="col-lg-3">
+                    <p><sm><?php echo $_SESSION['xmllang']->lsos;?></sm></p>
+                    <p>
+                        <a href="https://twitter.com/david_goerig"><i class="icon-twitter"></i></a>
+                        <a href="https://www.facebook.com/GoerigDavid"><i class="icon-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/david-goerig-056212139/"><i class="icon-linkedin"></i></a>
                         <a href="https://github.com/DavidGoerig"><i class="icon-github"></i></a>
-					</p>
-				</div>
-			</div><!--/.row -->
-		</div><!--/.container -->
-	</div><!--/ #footer -->
-	
-	<div id="c">
-		<div class="container">
-			<p>Created by David Goerig</p>
-		
-		</div>
-	</div>
-	
+                    </p>
+                </div>
+            </div><!--/.row -->
+        </div><!--/.container -->
+    </div><!--/ #footer -->
+
+    <div id="c">
+        <div class="container">
+            <p><?php echo $_SESSION['xmllang']->created;?></p>
+        </div>
+    </div>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

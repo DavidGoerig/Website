@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>Ce semestre, j'ai participé au Google Hash Code. C'était le tour de qualification en ligne et nous étions vraiment près du top 1000.</pa>
+        <pb>C'était un problème de conduite autonome. Des millions de personnes se déplacent chaque jour en voiture; par exemple, à l'école ou à leur lieu de travail. Les véhicules autonomes sont un développement passionnant pour le transport. Ils visent à rendre les voyages en voiture plus sûrs et plus accessibles tout en économisant du temps pour les passagers. Dans ce problème de concurrence, nous examinerons comment une flotte de véhicules autonomes peut efficacement amener les navetteurs vers leurs destinations dans une ville simulée.</pb>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Créé par David Goerig</created>
+    </fr>
+    <en>
+        <pa>This semester I participated to the Google Hash Code. It was the online qualification round, and we was really near the top 1000.</pa>
+        <pb>It was a self-driving rides problem. Millions of people commute by car every day; for example, to school or to their workplace. Self-driving vehicles are an exciting development for transportation. They aim to make traveling by car safer and more available while also saving commuters time. In this competition problem, we’ll be looking at how a fleet of self-driving vehicles can efficiently get commuters to their destinations in a simulated city.</pb>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

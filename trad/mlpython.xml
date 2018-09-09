@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>Je suis actuellement entrain de travailler sur le machine learning en python. Je ne conçois pas une application précise mais je me renseigne sur la méthode de fonctionnement et je m'entraine à créer des mini applications à l'aide des librairies Scikit-learn et Matplot-lib.</pa>
+        <pc>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pc>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Créé par David Goerig</created>
+    </fr>
+    <en>
+        <pa> I am currently working on machine learning in python. I do not understand a specific application but I learn about the method of operation and I'm working on creating mini applications using libraries Scikit-learn and Matplot-lib.</pa>
+        <pc>The sources and the documentation are present in the Github of the project (click on the icon).</pc>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

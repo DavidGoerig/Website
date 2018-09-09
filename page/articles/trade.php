@@ -3,6 +3,9 @@ session_start();
 
 if (isset($_GET['lang'])) {
     $_SESSION['lang'] = $_GET['lang'];
+    /*
+     * if ($_SESSION['lang'] != "fr" && $_SESSION['lang'] != "en") $_SESSION['lang'] = "fr";
+     */
 }
 else {
     if (!isset($_SESSION['lang'])) {
@@ -79,19 +82,12 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 		</div><!--/ #topbar-inner -->
 	</div><!--/ #section-topbar -->
 
-	<div id="headerarticleepiena">
-		<div class="container">
-			<div class="row centered">
-				<div class="col-lg-12">
-					<h1>MY TRADING ALGORITHM</h1>
-				</div><!--/.col-lg-12 -->
-			</div><!--/.row -->
-		</div><!--/.container -->
-	</div><!--/.#headerwrap -->
-
     <div id="articleepiena">
+        <div class="row">
+            <img src="../../assets/img/port04.bmp" width="auto" height="auto">
+        </div>
         <div class="container">
-            <h5>RAYTRACER</h5>
+            <h5>MY TRADING ALGORITHM</h5>
             <div class="col-lg-8 col-lg-offset-2">
                 <h5><?php echo $_SESSION['xmllang']->pa;?></h5>
                 <h5><?php echo $_SESSION['xmllang']->pb;?></h5>

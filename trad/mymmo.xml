@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>J'ai réalisé un projet Unity ayant comme but de créer un MMORPG.</pa>
+        <pb>Le résultat est tout sauf complet, cependant il y a les principals aspect que je voulais traité qui sont inclus, soit: possibilité de connecter jusqu'à une centaine de joueurs, un systeme de classe, des attaques, une interface de connexion, une charte graphique personnalisée avec Blender 3D.</pb>
+        <pc>Je ne peux le publier publiquement à cause des assets, mais je peux vous fournir l'executable ou vous envoyer les sources si vous me contactez.</pc>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Créé par David Goerig</created>
+    </fr>
+    <en>
+        <pa>I realized a Unity project with the goal of creating a MMORPG.</pa>
+        <pb>The result is anything but complete, there are the main aspects that I would like to deal with that are included: possibility to connect to a player center, a class system, attacks, a login interface , a personalized graphic chart with Blender 3D.</pb>
+        <pc>I can not publish publicly because of the assets, but I can provide you with executable files or send the sources if you contact me.</pc>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

@@ -7,7 +7,7 @@
         <pd>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pd>
         <adress>Adresse</adress>
         <lsos>LIENS SOCIALS</lsos>
-        <created>Crée par David Goerig</created>
+        <created>Créé par David Goerig</created>
     </fr>
     <en>
         <pa>The goal of this project is to create a program that creates computer-generated images using the Raytracing method from a configuration file.</pa>

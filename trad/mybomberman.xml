@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa>J'ai réalisé une copie du célèbre jeu Bomberman. Le but de ce jeu réalisé en C++ a été de créer un projet complet, réunissant des problèmes techniques tel le multijoueur (avec le multi-thread), la portativité Windows/Linus ou encore la création IA. Ce projet comporte une documentation et un UML complet.</pa>
+        <pb>J'ai utilisé la librairie graphique Irrlicht. Le but était de ne pas avoir de travail prémaché comme sur les actuels "framework"/éditeur de jeu connus.</pb>
+        <pc>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pc>
+        <dld>Consulter la fiche de présentation du projet.</dld>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIALS</lsos>
+        <created>Créé par David Goerig</created>
+    </fr>
+    <en>
+
+        <pa> I made a copy of the famous Bomberman game. The goal of this game made in C ++ was to create a complete project, bringing together technical problems such as multiplayer (with the multi-thread), Windows / Linus portativity or the creation IA. This project includes documentation and a complete UML.</pa>
+        <pb> I used the Irrlicht graphics library. The goal was not to have a premachio work like on the current known "framework" / game editor.</pb>
+        <pc>The sources and the documentation are present in the Github of the project (click on the icon).</pc>
+        <dld>Consult the project presentation sheet.</dld>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+    </en>
+</traduction>

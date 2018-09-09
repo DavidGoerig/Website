@@ -80,10 +80,10 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 	</div><!--/ #section-topbar -->
 
 	<div id="articlesony">
+        <div class="row">
+            <img src="../../assets/img/port05.bmp" style="width=180px;height = 120px;">
+        </div>
 		<div class="container">
-            <div class="row">
-                <img src="../../assets/img/port05.bmp" style="width=180px;height = 120px;">
-            </div>
             <h5>SONY MUSIC HACKATHON</h5>
             <div class="col-lg-8 col-lg-offset-2">
                 <h5><?php echo $_SESSION['xmllang']->pa;?></h5>
