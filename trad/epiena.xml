@@ -10,7 +10,7 @@
         <linkepi>Lien vers l'article de Epitech sur l'évènement.</linkepi>
         <linkena>Lien vers l'article de l'ENA sur l'évènement.</linkena>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -27,4 +27,18 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pa> Ich hatte das Glück, an Hackaton Epitech / ENA teilnehmen zu können. Inter-Schulprojekte - ENA, Epitech, das Generalsekretariat für die Modernisierung des öffentlichen Handelns (SGMAP), ENSCI und die Brasserie (Ideen) - mit dem Ziel, "neue Werkzeuge der Dienstleistungsöffentlichkeit zusammen zu erfinden". </pa>
+        <pb> Diese 3 Tage wurden in 3 "Workshops" aufgeteilt: ein orientiertes Design, das andere auf dem Nudge und schließlich der Hackathon. </pb>
+        <pc> Wir haben uns mit dem Thema befasst: "Wie kann das Subventionssystem in Frankreich erleichtert werden?" So haben wir zunächst beim Nudge-Workshop Kontakt zu den betroffenen Personen aufgenommen: einem Präsidenten eines Jugendhilfeverbandes in den Vororten von Straßburg sowie einem Verantwortlichen für die Vergabe von Stipendien in den Vogesen. Im Design Workshop haben wir gelernt, wie man die Anwendung anvisiert und Prototypen für den finalen Hackathon erstellt. </pc>
+        <pd> Am Ende war unser Projekt eine Anwendung, die es ermöglichte, alle Dienste zusammen zu verbinden, mit einer Pre-filling-Funktion (um die Redundanz der jährlichen Anfragen zu vermeiden) und einem kontinuierlichen Follow-up, so dass die Anfragen werden fast augenblicklich. </pd>
+        <pe> Hier sind die Artikel über die Veranstaltung: </pe>
+        <linkmonde> Link zum Artikel von le Monde über die Veranstaltung. </linkmonde>
+        <linkepi> Link zum Artikel von Epitech über die Veranstaltung. </linkepi>
+        <linkena> Link zum Artikel der Welt über die Veranstaltung. </linkena>
+
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

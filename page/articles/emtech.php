@@ -9,7 +9,7 @@ else {
         $_SESSION['lang'] = 'fr';
     }
 }
-$bibliotheque = simplexml_load_file('../../trad/clemessy.xml');
+$bibliotheque = simplexml_load_file('../../trad/emtech.xml');
 $lang = $_SESSION['lang'];
 $_SESSION['xmllang'] = $bibliotheque->$lang;
 ?>
@@ -57,18 +57,19 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 							<li class="menu-item"><a class="smoothScroll" href="../../index.php?lang=<?php echo $_SESSION['lang'];?>" title="About"><i class="icon-user"></i></a></li>
 							<li class="menu-item"><a class="smoothScroll" href="../cv.php?lang=<?php echo $_SESSION['lang'];?>" title="Resume"><i class="icon-file"></i></a></li>
 							<li class="menu-item"><a class="smoothScroll" href="../portfolio.php?lang=<?php echo $_SESSION['lang'];?>" title="Portfolio"><i class="icon-briefcase"></i></a></li>
+
                             <li class="menu-item">
-                                <a href="clemessy.php?lang=en" style="z-index=101;">
+                                <a href="mlpython.php?lang=en" style="z-index=101;">
                                     <img src="../../assets/img/flag/en.png" alt="" width=20 height=20>
                                 </a>
                             </li>
                             <li class="menu-item">
-                                <a href="clemessy.php?lang=fr">
+                                <a href="mlpython.php?lang=fr">
                                     <img src="../../assets/img/flag/fr.png" alt="" width=20 height=20>
                                 </a>
                             </li>
                             <li>
-                                <a href="clemessy.php?lang=ger">
+                                <a href="mlpython.php?lang=ger">
                                     <img src="../../assets/img/flag/ger.png" alt="" width=20 height=20>
                                 </a>
                             </li>
@@ -83,74 +84,79 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 		</div><!--/ #topbar-inner -->
 	</div><!--/ #section-topbar -->
 
-	<div id="headerarticleclem">
-		<div class="container">
-			<div class="row centered">
-				<div class="col-lg-12">
-				</div><!--/.col-lg-12 -->
-			</div><!--/.row -->
-		</div><!--/.container -->
-	</div><!--/.#headerwrap -->
-
-	<div id="articleeclem">
-		<div class="container">
-            <h5><?php echo $_SESSION['xmllang']->pres;?></h5>
+    <div id="articlemmo">
+        <div class="row">
+            <img src="../../assets/img/port09.bmp" style="width=180px;height = 120px;">
+        </div>
+        <div class="container">
+            <h5>EMTECH TOULOUSE</h5>
             <div class="col-lg-8 col-lg-offset-2">
                 <h5><?php echo $_SESSION['xmllang']->pa;?></h5>
                 <h5><?php echo $_SESSION['xmllang']->pb;?></h5>
-                <h5><?php echo $_SESSION['xmllang']->pc;?></h5>
-                <h5><?php echo $_SESSION['xmllang']->pd;?></h5>
-                <div class="col-lg-2">
-                    <img src="../../assets/img/icons/eye.png" width="50" height="50">
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech2.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
                 </div>
-                <div class="col-lg-9">
-                    <h5 class="myborder"><?php echo $_SESSION['xmllang']->pe;?></h5>
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech3.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
+                </div>
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech4.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
+                </div>
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech5.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
+                </div>
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech6.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
+                </div>
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech7.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
+                </div>
+                <div class="row">
+                    <img src="../../assets/img/emtech/emtech8.jpg" style="width:512px;height:288px;margin-bottom: 10px;">
                 </div>
             </div>
-            <div class="row">
-                <a href="../../todlfile/INTERNSHIP.pdf" style="background-color: black;"><i></i> <h5><b><?php echo $_SESSION['xmllang']->dld;?></b></h5></a>
-            </div>
-		</div>
-	</div>
+        </div>
+    </div>
+    </div>
 
-	<section id="contact" name="contact"></section>
-	<!--FOOTER DESCRIPTION -->
-	<div id="footwrap">
-		<div class="container">
-			<div class="row">
-			
-				<div class="col-lg-2 col-lg-offset-1">
-					<h5>CONTACT</h5>
-				</div>
-				<div class="col-lg-6">
-					<p><t>Email</t><br/>
-						david.goerig@epitech.eu <br/>
-					</p>
-					<p><t><?php echo $_SESSION['xmllang']->adress;?></t><br/>
-						7 rue des Chouettes <br/>
-						68128 Village-Neuf <br/>
-						FRANCE <br/>
-					</p>
-				</div>
-				<div class="col-lg-3">
-					<p><sm><?php echo $_SESSION['xmllang']->lsos;?></sm></p>
-					<p>
-						<a href="https://twitter.com/david_goerig"><i class="icon-twitter"></i></a>
-						<a href="https://www.facebook.com/GoerigDavid"><i class="icon-facebook"></i></a>
-						<a href="https://www.linkedin.com/in/david-goerig-056212139/"><i class="icon-linkedin"></i></a>
+    <section id="contact" name="contact"></section>
+    <!--FOOTER DESCRIPTION -->
+    <div id="footwrap">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-2 col-lg-offset-1">
+                    <h5>CONTACT</h5>
+                </div>
+                <div class="col-lg-6">
+                    <p><t>Email</t><br/>
+                        david.goerig@epitech.eu <br/>
+                    </p>
+                    <p><t><?php echo $_SESSION['xmllang']->adress;?></t><br/>
+                        7 rue des Chouettes <br/>
+                        68128 Village-Neuf <br/>
+                        FRANCE <br/>
+                    </p>
+                </div>
+                <div class="col-lg-3">
+                    <p><sm><?php echo $_SESSION['xmllang']->lsos;?></sm></p>
+                    <p>
+                        <a href="https://twitter.com/david_goerig"><i class="icon-twitter"></i></a>
+                        <a href="https://www.facebook.com/GoerigDavid"><i class="icon-facebook"></i></a>
+                        <a href="https://www.linkedin.com/in/david-goerig-056212139/"><i class="icon-linkedin"></i></a>
                         <a href="https://github.com/DavidGoerig"><i class="icon-github"></i></a>
-					</p>
-				</div>
-			</div><!--/.row -->
-		</div><!--/.container -->
-	</div><!--/ #footer -->
-	
-	<div id="c">
-		<div class="container">
-			<p><?php echo $_SESSION['xmllang']->created;?></p>
-		</div>
-	</div>
-	
+                    </p>
+                </div>
+            </div><!--/.row -->
+        </div><!--/.container -->
+    </div><!--/ #footer -->
+
+    <div id="c">
+        <div class="container">
+            <p><?php echo $_SESSION['xmllang']->created;?></p>
+        </div>
+    </div>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

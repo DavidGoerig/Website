@@ -68,6 +68,11 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
                                     <img src="../assets/img/flag/fr.png" alt="" width=20 height=20>
                                 </a>
                             </li>
+                            <li>
+                                <a href="portfolio.php?lang=ger">
+                                    <img src="../assets/img/flag/ger.png" alt="" width=20 height=20>
+                                </a>
+                            </li>
 						</ul><!--/ uL#nav -->
 					</div><!-- /.dropdown -->
 
@@ -171,6 +176,16 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 				</div>
 			</div>
 		</div>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="row">
+                    <a href="articles/emtech.php?lang=<?php echo $_SESSION['lang'];?>"><img class="img-responsive" src="../assets/img/port10.bmp" alt=""></a>
+                </div>
+                <div class="col-lg-8 col-lg-offset-2" >
+                    <p>EMTECH TOULOUSE</p>
+                </div>
+            </div>
+        </div>
 	</div>
 
 	<section id="contact" name="contact"></section>

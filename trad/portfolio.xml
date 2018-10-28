@@ -2,7 +2,7 @@
 <traduction>
     <fr>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -10,4 +10,9 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

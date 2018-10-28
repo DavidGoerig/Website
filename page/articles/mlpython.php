@@ -68,6 +68,11 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
                                     <img src="../../assets/img/flag/fr.png" alt="" width=20 height=20>
                                 </a>
                             </li>
+                            <li>
+                                <a href="mlpython.php?lang=ger">
+                                    <img src="../../assets/img/flag/ger.png" alt="" width=20 height=20>
+                                </a>
+                            </li>
 						</ul><!--/ uL#nav -->
 					</div><!-- /.dropdown -->
 
@@ -88,7 +93,7 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
             <div class="col-lg-8 col-lg-offset-2">
                 <h5><?php echo $_SESSION['xmllang']->pa;?></h5>
                 <div class="col-lg-2">
-                    <a href="https://github.com/DavidGoerig/MyBombermanCPP"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                    <a href="https://github.com/DavidGoerig/MachineLearning"><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                                                                  width="50px" height="50px" viewBox="0 0 438.549 438.549" style="enable-background:new 0 0 438.549 438.549;"
                                                                                  xml:space="preserve">
                     <g><path d="M409.132,114.573c-19.608-33.596-46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365

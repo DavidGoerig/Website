@@ -7,7 +7,7 @@
         <pd>Etant le développeur de l'équipe, j'ai choisi de faire une Webbapp afin qu'elle soit portable un maximum (les images de l'application sont dans le compte rendu), le but étant d'utiliser un maximum les API afin d'avoir le plus de données possible. Les languages utilisés étaient ainsi ceux du Web (HTML, CSS avec Bootstrap, JS, PHP, SQL,...). </pd>
         <dld>Consulter la fiche de présentation du projet.</dld>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -21,4 +21,12 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pa> Ich hatte die Möglichkeit, an dem von SONY MUSIC FRANCE in EPITECH France Schulen organisierten Hackathon teilzunehmen. Das Thema war, einen Weg zu finden, die Suche nach neuen Talenten zu redinimieren. </pa>        <pb>The Hackathon took place over two weeks. The first week consisted of the development of a project in collaboration with a marketing school as well as an art school, with a weekend final between the 16 groups to find out who will have the chance to participate in the final, which was to develop this project during the second week.</pb>
+        <pc> Also haben wir das Digg'r-Projekt erstellt und vorgestellt. Dieses Tool hat die Aufgabe, die auf allen digitalen Medien gefundenen Daten zu überfliegen: soziale Netzwerke, Musikplattformen usw. Jeder Agent kann seine eigenen Recherchen durchführen, dank der Selektionskriterien, die er sogar anpassen kann, je nachdem, was er finden möchte. Sparen Sie Zeit und Zeit, um mehr Zeit mit dem Treffen von Talenten zu verbringen. </pc>        <pd>Being the developer of the team, I chose to make a Webbapp so that it is portable a maximum (the images of the application are in the report), the goal being to use a maximum the APIs in order to to have as much data as possible. The languages ​​used were those of the Web (HTML, CSS with Bootstrap, JS, PHP, SQL, ...).</pd>
+        <dld> Konsultieren Sie das Projekt-Präsentationsblatt. </dld>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

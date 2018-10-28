@@ -7,7 +7,7 @@
         <pd>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pd>
 
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -20,4 +20,12 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pa>Das erste Programm ist ein kleiner Handelsalgorithmus, der über ein Jahr viele Cashflows (hier Kryptowährungen, Rohstoffe, Börsen und Devisen) aufnimmt. Arbeiten Sie hauptsächlich mit dem Bollinger Band, das Ziel ist die Gewinnmaximierung entsprechend der Fluktuation mehrerer gleichzeitiger Kurse und ihrer Entwicklung.</pa>
+        <pb> Die zweite ist eine Shell, mit der Sie jederzeit die Bollinger-Bänder anzeigen, Währungen kaufen oder verkaufen, Parameter des Bollinger-Bandes ändern können. </pb>
+        <pc> Sie wurden mit Python gemacht. Für Beispiele habe ich Parser gemacht, der alle Währungen von 2017 sendet, aber es ist nur für Offline-Zwecke, können wir einfach eine API verwenden und tägliche Währungen nehmen. </pc>        <pd> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pd>
+        <adress>Address</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

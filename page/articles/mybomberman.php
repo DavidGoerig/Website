@@ -68,6 +68,11 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
                                     <img src="../../assets/img/flag/fr.png" alt="" width=20 height=20>
                                 </a>
                             </li>
+                            <li>
+                                <a href="mybomberman.php?lang=ger">
+                                    <img src="../../assets/img/flag/ger.png" alt="" width=20 height=20>
+                                </a>
+                            </li>
 						</ul><!--/ uL#nav -->
 					</div><!-- /.dropdown -->
 

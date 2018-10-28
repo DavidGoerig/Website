@@ -6,7 +6,7 @@
         <pc>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pc>
         <dld>Consulter la fiche de présentation du projet.</dld>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -19,4 +19,14 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+
+        <pa> Ich habe eine Kopie des berühmten Bomberman-Spiels gemacht. Das Ziel dieses Spiels in C ++ war es, ein komplettes Projekt zu erstellen, das technische Probleme wie Multiplayer (mit Multi-Thread), Windows / Linux-Portabilität oder die Erstellung von IA zusammenbringt. Dieses Projekt beinhaltet Dokumentation und eine komplette UML. </pa>
+        <pb> Ich habe die Irrlicht-Grafikbibliothek benutzt. Das Ziel war nicht, dass ein Pre-machio wie bei dem derzeit bekannten "Framework" / Spiele-Editor funktioniert. </pb>
+        <pc> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pc>
+        <dld> Konsultieren Sie das Projekt-Präsentationsblatt. </dld>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

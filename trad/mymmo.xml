@@ -5,7 +5,7 @@
         <pb>Le résultat est tout sauf complet, cependant il y a les principals aspect que je voulais traité qui sont inclus, soit: possibilité de connecter jusqu'à une centaine de joueurs, un systeme de classe, des attaques, une interface de connexion, une charte graphique personnalisée avec Blender 3D.</pb>
         <pc>Je ne peux le publier publiquement à cause des assets, mais je peux vous fournir l'executable ou vous envoyer les sources si vous me contactez.</pc>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -16,4 +16,12 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pa> Ich habe ein Unity-Projekt mit dem Ziel realisiert, ein MMORPG zu erstellen. </pa>
+        <pb> Das Ergebnis ist alles andere als vollständig, da sind die Hauptaspekte, mit denen ich mich befassen möchte: die Möglichkeit, sich mit einem Player-Center, einem Klassensystem, Angriffen, einer Login-Oberfläche, einer personalisierten Grafikkarte mit Blender zu verbinden 3D. </pb>
+        <pc> Ich kann aufgrund der Assets nicht öffentlich veröffentlichen, aber ich kann ausführbare Dateien bereitstellen oder die Quellen senden, wenn Sie mich kontaktieren. </pc>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

@@ -95,6 +95,16 @@ a:after {
 }
 
 /*
+ RESUME WORK
+ */
+
+ .contour {
+	 border-width:1px;
+	 /*border-style:dotted;*/
+	 border-color:black;
+ }
+
+/*
 	Top Bar
 
 	By default, top navigation bar uses "fixed" position

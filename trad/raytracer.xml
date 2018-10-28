@@ -6,7 +6,7 @@
         <pc>Un bon nombre de formes ont été intégrées dans toutes les formes quadratiques, en limitant le calcul de toutes les formes simples à une formule commune. Les autres formes sont également intégrées au Tore. La transparence, les ombres, l'intégrations de lumières et de textures ont également été mis en place.</pc>
         <pd>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pd>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -18,4 +18,13 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pa> Ziel dieses Projekts ist es, ein Programm zu erstellen, das computergenerierte Bilder mithilfe der Raytracing-Methode aus einer Konfigurationsdatei erstellt. </pa>
+        <pb> Das sogenannte Ray-Tracing-Verfahren ist wie folgt: Für jedes Pixel (Punkt des Bildes) wird eine Farbe entsprechend dem Schnittpunkt zwischen einem der gestarteten Strahlen und einem der in der Szene gefundenen Objekte bestimmt beobachte von einem Punkt aus. Diese Farbe wird dann von zusätzlichen Effekten wie Licht, Schatten, Transparenz beeinflusst ... </pb>
+        <pc> Viele Formen wurden in alle quadratischen Formen integriert, was die Berechnung aller einfachen Formen auf eine gemeinsame Formel beschränkt. Die anderen Formen sind ebenfalls in den Torus integriert. Transparenz, Schatten, Lichtintegrationen und Texturen wurden ebenfalls geschaffen. </pc>
+        <pd> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pd>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

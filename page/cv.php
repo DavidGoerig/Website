@@ -68,6 +68,11 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
                                     <img src="../assets/img/flag/fr.png" alt="" width=20 height=20>
                                 </a>
                             </li>
+                            <li>
+                                <a href="cv.php?lang=ger">
+                                    <img src="../assets/img/flag/ger.png" alt="" width=20 height=20>
+                                </a>
+                            </li>
 						</ul><!--/ uL#nav -->
 					</div><!-- /.dropdown -->
 
@@ -96,6 +101,7 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
         <div class="col-lg-6">
                  <a href="../todlfile/CVANGDGOERIG.pdf"><img src="../assets/img/flag/en.png" alt="" width="40" height="40"></a>
                  <a href="../todlfile/CVFRDGOERIG.pdf"><img src="../assets/img/flag/fr.png" alt="" width="40" height="40"></a>
+                <a href="../todlfile/CVGERGOERIG.pdf"><img src="../assets/img/flag/ger.png" alt="" width="40" height="40"></a>
         </div>
     </div>
 
@@ -150,8 +156,18 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 				<div class="col-lg-2 col-lg-offset-1">
 					<h5><?php echo $_SESSION['xmllang']->work;?></h5>
 				</div>
+            <!--CLEMESSY-->
+            <div class="col-lg-6">
+                <p><t><?php echo $_SESSION['xmllang']->pres;?></t><br/>
+                    New Health Community, Toulouse. <br/>
+                </p>
+                <p><more><?php echo $_SESSION['xmllang']->nhcresume;?></more></p>
+            </div>
+            <div class="col-lg-3">
+                <p><sm><?php echo $_SESSION['xmllang']->nhcdate;?></sm></p>
+            </div>
 			<!--CLEMESSY-->
-				<div class="col-lg-6">
+				<div class="col-lg-6 col-lg-offset-3">
 					<p><t><?php echo $_SESSION['xmllang']->pres;?></t><br/>
 						Clemessy Mulhouse. <br/>
 					</p>
@@ -422,6 +438,17 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 						<sm><i class="icon-tag"></i> python</sm></more>
 					</p>
 				</div>
+            <!-- Article EMTECH en python -->
+            <div class="col-lg-6 col-lg-offset-3">
+                <a href="./articles/emtech.php?lang=<?php echo $_SESSION['lang'];?>"><img class="img-responsive" src="../assets/img/port10.bmp" alt="" border="0"></a>
+            </div>
+            <div class="col-lg-3">
+                <p>EMTECH TOULOUSE</p>
+                <p><more><?php echo $_SESSION['xmllang']->pythonml;?>
+                        <sm><i class="icon-tag"></i> EMTECH</sm>
+                        <sm><i class="icon-tag"></i> MIT</sm></more>
+                </p>
+            </div>
 		</div><!--/.row -->
 		<br>
 		<br>

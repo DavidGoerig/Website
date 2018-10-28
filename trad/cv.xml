@@ -11,6 +11,10 @@
         <bacc>Baccalaureat scientifique</bacc>
         <obtain>OBTENU EN JUIN 2013</obtain>
         <work>TRAVAIL</work>
+        <nhcresume>Création d'un robot visant à une assistance médicale en milieu hospitalié, et partitpation aux projets de la start-up travaillant sur la digitalisation des domaines médicaux.</nhcresume>
+        <nhcdate>15 SEPTEMBRE 2018 - 22 MARS 2018</nhcdate>
+        <clemresume>Création d'un éditeur de synoptique permettant la maintenance et le contrôle d'instalations manufacturière.</clemresume>
+        <clemdate>3 JUIN 2017 - 22 DECEMBRE 2017</clemdate>
         <clemresume>Création d'un éditeur de synoptique permettant la maintenance et le contrôle d'instalations manufacturière.</clemresume>
         <clemdate>3 JUIN 2017 - 22 DECEMBRE 2017</clemdate>
         <delph>Travail administratif</delph>
@@ -35,8 +39,9 @@
         <firstmmo>J'ai réalisé un premier MMO avec Unity. Le mais de ce projet était de bien comprendre les échanges de données entre les différents joueurs et de comprendre comment ils peuvent partager un serveur commun.</firstmmo>
         <bombermanr>J'ai réalisé une copie de Bomberman pouvant se jouer contre une IA ou en écran scindé. Ce projet comporte un diagramme UML et une documention complète. Il a été codé en C++ avec la librairie Irrlicht et est jouable sur Linux ou windows.</bombermanr>
         <pythonml>J'ai étudié le livre "Introduction à l'apprentissage automatique avec Python" de Sarah Guido et Andreas Mueller. Il utilise les bibliothèques matplotlib et NumPy. J'ai aussi fait ma première application afin de tester ce que j'ai appris. Cela m'a vraiment donné les bases du machine learning.</pythonml>
+        <emtech>J'ai eu la chance d'être invité par EPITECH à la conférence EMTECH EUROPE à Toulouse.</emtech>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -75,8 +80,50 @@
         <firstmmo>I made a first MMO with Unity. The goal of this project was to understand the data exchange between the different players and understand how they can share a common server.</firstmmo>
         <bombermanr>I made a copy of Bomberman that can be played against an AI or split screen. This project includes a UML diagram and a complete documention. It has been coded in C ++ with the Irrlicht library and is playable on Linux or windows.</bombermanr>
         <pythonml>I studied the book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas Mueller. It use the matplotlib and NumPy libraries. I also made first program in order to test what i learned. It really gave me the basics of machine learning.</pythonml>
+        <emtech>I had the chance to be invited by EPITECH to the EMTECH EUROPE conference in Toulouse.</emtech>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pres>Vollstapel-Entwickler</pres>
+        <education>AUSBILDUNG</education>
+        <master>Software und Computer engineering</master>
+        <year>Im dritten Lehrjahr</year>
+        <progress>IN BEARBEITUNG</progress>
+        <faculty>Fakultät für Mathematik und Wirtschaftswissenschaften</faculty>
+        <univ>Universität von Straßburg</univ>
+        <bacc>Diplom des General Baccalaureat in Scientific Series - Vermerk "gut"</bacc>
+        <obtain>ERHALTEN IM JUNI 2013</obtain>
+        <work>BERUFSERFAHRUNG</work>
+        <clemresume>Entwicklung eines synoptischen Editors für Bedienung Pilotierung einer Fertigungsstätte. Hergestellt in Java und Javascript </clemresume>
+        <clemdate>3 JULI 2017 - 22 DEZEMBER 2017</clemdate>
+        <delph>Verwaltungsarbeit</delph>
+        <delphresume>Verwaltungsarbeit in der Produktion, Verwendung von Office- und Verwaltungssoftware Aktien und Personal</delphresume>
+        <delphsmr>FERIENJOB 2016</delphsmr>
+        <roche>FRACHT PRAKTIKUM</roche>
+        <rocheresume>Tätigkeit in der Logistik und Fracht Abteilung. Verwendung von SAP und Office.</rocheresume>
+        <rocheint>PRAKTIKUM (2 Monate) 2014</rocheint>
+        <rochesmr>Administrative und logistische Arbeit.</rochesmr>
+        <rochesmrres>Administrative Tätigkeit, Lager Arbeit, ITTätigkeit.</rochesmrres>
+        <rochesmrsmr>Sommerarbeit 2012, 2013 und 2015</rochesmrsmr>
+        <skills>SKILLS</skills>
+        <dld>DOWNLOAD LEBENSLAUF:</dld>
+        <internpro>PRAKTIKUMSPROJEKT IN CLEMESSY</internpro>
+
+
+        <epiena> Ich hatte die Chance, am ENA / EPITECH Hackaton teilzunehmen. Dieser Hackathon war eine Design-Werkstatt vom 21. bis 23. Der zweite war ein Nudge Workshop am 2. und 3. Mai; und schließlich der Rush / Sprint (Fertigstellung von Projekten im Hackathon-Modus) und die Jury am 13. und 14. Juni. Ich musste an der Vergabe von Stipendien in Frankreich arbeiten. <br/> <br/> </epiena>
+        <projectclem> Das Thema meines Praktikums ist die Entwicklung eines synoptischen Editors, der die Überwachung und Steuerung von Produktionsanlagen ermöglicht. Ich war mit der Technik und Problemen konfrontiert, dass ich nicht wusste, ich habe die Gelegenheit, neue Sprachen zu lernen Mein Ziel aussi die Phasen der Ausarbeitung eines Projektes verstanden, von der Schöpfung bis ict icts Umsetzung. </projectclem>
+        <raytracing> Das Ziel dieses Projektes ist es, ein Programm zu erstellen, das computergenerierte Erzeugt Bild mit den Strahlverfolgungsverfahren einer Konfigurationsdatei. </raytracing>
+        <trading> Der Zweck dieses Projekts in Python war die Nutzung von Finanzinstrumenten wie den Bollinger Bands. Also habe ich eine Shell erstellt, die sich dynamisch in jedem Moment des Geldbeutels ändert, das mittels API abgerufen wurde, um die Bollinger-Bänder zu berechnen und die Eigenschaften zu ändern. Der zweite ist ein Algorithmus, der diese ökonomischen Werkzeuge über einen bestimmten Zeitraum verwendet.</trading>
+        <sony> Ich hatte die Möglichkeit, am SpeedHack von Sony music France teilzunehmen. Ich wurde für das letzte Jahr ausgewählt, dank eines talentierten Suchfinders ein Werkzeug, um ihre Arbeit zu erleichtern. </sony>
+        <googlehc> Ich hatte die Möglichkeit, an Google Hashcode 2017 teilzunehmen. Der Hash-Code ist ein Programmierwettbewerb auf konkrete Fragen und Herausforderungen Ingenieure mit Blick auf den Google Das kann in ihren technologischen Nachrichten und ihre Geschäfte Fragen im Zusammenhang mit Teilnehmen. </googlehc>
+        <firstmmo> Ich habe ein erstes MMO mit Unity gemacht. Das Ziel dieses Projekts ist es, zu verstehen und zu verstehen, wie sie einen gemeinsamen Server teilen. </firstmmo>
+        <bombermanr> Ich habe eine Kopie von Bomberman gemacht, die gegen eine KI oder einen geteilten Bildschirm gespielt werden kann. Dieses Projekt enthält ein UML-Diagramm und eine vollständige Dokumentation. Es wurde in C ++ mit der Irrlicht-Bibliothek kodiert und ist unter Linux oder Windows spielbar. </bombermanr>
+        <pythonml> Ich habe das Buch "Einführung in maschinelles Lernen mit Python" von Sarah Guido und Andreas Müller studiert. Es verwendet die Matplotlib- und NumPy-Bibliotheken. Ich habe auch das erste Programm gemacht, um zu testen, was ich gelernt habe. Es gibt mir die Grundlagen des maschinellen Lernens. </pythonml>
+        <emtech>Ich hatte die Gelegenheit, von EPITECH zur EMTECH EUROPE-Konferenz in Toulouse eingeladen zu werden.</emtech>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>

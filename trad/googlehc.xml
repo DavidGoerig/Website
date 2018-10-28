@@ -4,7 +4,7 @@
         <pa>Ce semestre, j'ai participé au Google Hash Code. C'était le tour de qualification en ligne et nous étions vraiment près du top 1000.</pa>
         <pb>C'était un problème de conduite autonome. Des millions de personnes se déplacent chaque jour en voiture; par exemple, à l'école ou à leur lieu de travail. Les véhicules autonomes sont un développement passionnant pour le transport. Ils visent à rendre les voyages en voiture plus sûrs et plus accessibles tout en économisant du temps pour les passagers. Dans ce problème de concurrence, nous examinerons comment une flotte de véhicules autonomes peut efficacement amener les navetteurs vers leurs destinations dans une ville simulée.</pb>
         <adress>Adresse</adress>
-        <lsos>LIENS SOCIALS</lsos>
+        <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
     </fr>
     <en>
@@ -14,4 +14,11 @@
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
     </en>
+    <ger>
+        <pa> Dieses Semester habe ich am Google Hash Code teilgenommen. Es war die Online-Qualifikationsrunde, und wir waren wirklich in der Nähe der Top 1000. </pa>
+        <pb> Es war ein selbstfahrendes Fahrproblem. Millionen Menschen pendeln jeden Tag mit dem Auto; zum Beispiel zur Schule oder zu ihrem Arbeitsplatz. Selbstfahrende Fahrzeuge sind eine spannende Entwicklung für den Transport. Sie zielen darauf ab, das Autofahren sicherer und verfügbarer zu machen und gleichzeitig den Pendlern Zeit zu sparen. In diesem Wettbewerbsproblem werden wir untersuchen, wie eine Flotte von selbstfahrenden Fahrzeugen in einer simulierten Stadt Pendler effizient zu ihrem Ziel bringen kann. </pb>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+    </ger>
 </traduction>
