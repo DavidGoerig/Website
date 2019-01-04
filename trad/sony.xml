@@ -9,24 +9,29 @@
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
-        <pa>I had the chance to participate in the Hackathon organized by SONY MUSIC FRANCE in EPITECH France schools. The subject was to find a way to redinamise the search for new talent.</pa>
-        <pb>The Hackathon took place over two weeks. The first week consisted of the development of a project in collaboration with a marketing school as well as an art school, with a weekend final between the 16 groups to find out who will have the chance to participate in the final, which was to develop this project during the second week.</pb>
-        <pc>So we created and imagined the Digg'r project. This tool has the mission of skimming the data found on all digital media: social networks, music platforms etc. Each agent can do his own research, more precise thanks to selection criteria that he can even adjust according to what he wants to find. So, save time and free up to spend more time meeting talent.</pc>
-        <pd>Being the developer of the team, I chose to make a Webbapp so that it is portable a maximum (the images of the application are in the report), the goal being to use a maximum the APIs in order to to have as much data as possible. The languages ​​used were those of the Web (HTML, CSS with Bootstrap, JS, PHP, SQL, ...).</pd>
+        <pa>I had the opportunity to participate in the SONY MUSIC FRANCE hackathon in the French EPITECH schools. The theme was to find a way to redesign the search for new talent.</pa>
+        <pb>The Hackathon took place over two weeks. The first week was to develop a project in collaboration with a marketing school and an art school. A final performance at the end of the week was to find out who would make it to the next round. A total of 16 groups took part.</pb>
+        <pc>For this presentation we developed the "Digg'r Project". This tool aims to fly over data from all digital media: social networks, music platforms, etc. Each agent can carry out his own precise research. He can define these himself thanks to a pre-selection of selection criteria. This saves time and makes it possible to meet with the talents.</pc>
+        <pd>As a team developer I decided to design a webapp so that the users are as portable/flexible as possible. The goal is to use the APIs as versatile as possible and to get as much data as possible. Pictures of the application are in the project report (only in French). The program was developed with the web languages (HTML, CSS with Bootstrap, JS, PHP, SQL,....).</pd>
         <dld>Consult the project presentation sheet.</dld>
 
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pa> Ich hatte die Möglichkeit, an dem von SONY MUSIC FRANCE in EPITECH France Schulen organisierten Hackathon teilzunehmen. Das Thema war, einen Weg zu finden, die Suche nach neuen Talenten zu redinimieren. </pa>        <pb>The Hackathon took place over two weeks. The first week consisted of the development of a project in collaboration with a marketing school as well as an art school, with a weekend final between the 16 groups to find out who will have the chance to participate in the final, which was to develop this project during the second week.</pb>
-        <pc> Also haben wir das Digg'r-Projekt erstellt und vorgestellt. Dieses Tool hat die Aufgabe, die auf allen digitalen Medien gefundenen Daten zu überfliegen: soziale Netzwerke, Musikplattformen usw. Jeder Agent kann seine eigenen Recherchen durchführen, dank der Selektionskriterien, die er sogar anpassen kann, je nachdem, was er finden möchte. Sparen Sie Zeit und Zeit, um mehr Zeit mit dem Treffen von Talenten zu verbringen. </pc>        <pd>Being the developer of the team, I chose to make a Webbapp so that it is portable a maximum (the images of the application are in the report), the goal being to use a maximum the APIs in order to to have as much data as possible. The languages ​​used were those of the Web (HTML, CSS with Bootstrap, JS, PHP, SQL, ...).</pd>
+        <pa> Ich hatte die Möglichkeit, am Hackathon der von SONY MUSIC FRANCE in den französischen EPITECH-Schulen teilzunehmen. Thema war, einen Weg zu finden, die Suche nach neuen Talenten neu zu gestalten.</pa>
+        <pb> Der Hackathon fand über zwei Wochen statt. Die erste Woche bestand darin, ein Projekt in Zusammenarbeit mit einer Marketingschule und Kunstschule zu entwickeln. In einer finalen Vorstellung am Ende der Woche sollte herausgefunden werden, wer es in die nächste Runde schafft. Insgesamt haben 16 Gruppen dran teilgenommen.</pb>
+        <pc> Für diese Vorstellung haben wir das «Digg'r-Projekt» entwickelt. Dieses Tool zielt darauf ab, Daten aus allen digitalen Medien zu überfliegen: soziale Netzwerke, Musikplattformen usw. Jeder Agent kann seine eigenen präzisen Recherchen durchführen. Diese kann er danke einer Vorauswahl an Auswahlkriterien selber festlegen. Das spart Zeit und ermöglicht somit, dass man sich mit den Talenten treffen kann.</pc>
+        <pd> Als Teamentwickler habe ich mich dafür entschieden, eine Webapp so zu gestalten, damit die User soweit wie möglich portabel/flexibel sind. Ziel ist es die die APIs so vielseitig wie möglich zu nutzen und möglichst viele Daten zu erhalten. Bilder der Anwendung sind im Projektbericht (nur auf Französisch). Das Programm wurde mit den Websprachen entwickelt (HTML, CSS mit Bootstrap, JS, PHP, SQL,....).</pd>
         <dld> Konsultieren Sie das Projekt-Präsentationsblatt. </dld>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

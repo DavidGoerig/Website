@@ -7,21 +7,24 @@
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
         <comp>Full stack developer</comp>
         <about>ABOUT</about>
-        <pres>Hello, my name is David Goerig. I actually live in Village-Neuf in France at the border of Basel in Switzerland and germany. I'm actually study development in Epitech Toulouse. I do back-end and front-end developement since 3 years professionaly and at school, but I have many years of independent practice. I'm interested in all kinds of software programming, but actually I try to develop myself with the machine learning.</pres>
+        <pres>Hello, my name is David Goerig. I recently live in Village-Neuf in France near the border of switzerland and germany. I'm studying development at Epitech Toulouse. I have been programming and developing front-end and back-ends for 3 years now. I do this professionally and at school. Beyond that I have many years of independent practice. I am interested in all kinds of software programming, but I am especially interested in machine learning at the moment and try to deepen my knowledge.</pres>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <comp>Vollstapel-Entwickler</comp>
+        <comp>Full-Stack Entwickler</comp>
         <about>BESCHREIBUNG</about>
-        <pres>Hallo, mein Name ist David Goerig. Ich lebe zurzeit in Village-Neuf, Frankreich, an der Grenze von Basel in der Schweiz und Deutschland. Ich bin zur Zeit ein Student in Entwicklung bei Epitech Toulouse. Ich mache seit 3 Jahren Backend- und Frontend-Entwicklung professionell und in der Schule, aber ich habe viele Jahre selbständige Praxis. Ich interessiere mich für alle Arten von Software-Programmierung, ich versuche, mich mit maschinellem Lernen zu entwickeln.</pres>
+        <pres>Hallo, mein Name ist David Goerig. Ich wohne zurzeit in Village-Neuf (Frankreich), an der Grenze zur Schweiz und Deutschland. Zurzeit studiere ich Entwicklung bei Epitech in Toulouse. Ich mache seit 3 Jahren Backend- und Frontend-Entwicklung in einem professionellen und schulischen Rahmen. Zudem habe ich einige Jahre selbständige praktische Erfahrung in diesem Bereich. Ich interessiere mich für alle Arten der Software-Programmierung. Gerade versuche ich mein Wissen im Bereich «Maschine-Learning» zu vertiefen und mich dorthin weiter zu entwickeln.</pres>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

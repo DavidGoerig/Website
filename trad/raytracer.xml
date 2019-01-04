@@ -8,23 +8,26 @@
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
         <pa>The goal of this project is to create a program that creates computer-generated images using the Raytracing method from a configuration file.</pa>
-        <pb>The so-called Ray-Tracing method is as follows: for each pixel (point of the image), a color is determined according to the intersection between one of the launched rays and one of the objects found in the scene that we observe from a point of it. This color is then influenced by added effects such as lights, shadows, transparency ...</pb>
-        <pc>Many forms have been integrated into all quadratic forms, limiting the computation of all simple forms to a common formula. The other forms are also integrated in the torus. Transparency, shadows, integrations of lights and textures have also been put in place.</pc>
+        <pb>The so-called Ray-Tracing method is as follows: for each pixel (point of the image), a color is determined according to the intersection between one of the rays thrown and one of the objects in the scene that can be observed from a point in the scene. This color is then influenced by added effects such as lights, shadows, transparency ...</pb>
+        <pc>Many forms have been integrated into all quadratic forms, limiting the calculation of all simple forms to a common formula. The other forms are also integrated in the torus. Transparency, shadows, integrations of lights and textures have also been put in place.</pc>
         <pd>The sources and the documentation are present in the Github of the project (click on the icon).</pd>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pa> Ziel dieses Projekts ist es, ein Programm zu erstellen, das computergenerierte Bilder mithilfe der Raytracing-Methode aus einer Konfigurationsdatei erstellt. </pa>
-        <pb> Das sogenannte Ray-Tracing-Verfahren ist wie folgt: Für jedes Pixel (Punkt des Bildes) wird eine Farbe entsprechend dem Schnittpunkt zwischen einem der gestarteten Strahlen und einem der in der Szene gefundenen Objekte bestimmt beobachte von einem Punkt aus. Diese Farbe wird dann von zusätzlichen Effekten wie Licht, Schatten, Transparenz beeinflusst ... </pb>
-        <pc> Viele Formen wurden in alle quadratischen Formen integriert, was die Berechnung aller einfachen Formen auf eine gemeinsame Formel beschränkt. Die anderen Formen sind ebenfalls in den Torus integriert. Transparenz, Schatten, Lichtintegrationen und Texturen wurden ebenfalls geschaffen. </pc>
-        <pd> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pd>
+        <pa>Ziel dieses Projekts ist es, ein Programm zu erstellen, das computergenerierte Bilder mithilfe der Raytracing-Methode aus einer Konfigurationsdatei erstellt.</pa>
+        <pb>Das sogenannte Ray-Tracing-Verfahren funktioniert wie folgt: Für jedes Pixel (Punkt des Bildes) wird eine Farbe gemäß dem Schnittpunkt zwischen einem der geworfenen Strahlen und einem der Objekte in der Szene bestimmt, die von einem Punkt in der Szene aus beobachtet werden können. Diese Farbe wird dann von zusätzlichen Effekten wie Licht, Schatten, Transparenz, etc. beeinflusst.</pb>
+        <pc>Viele Formen wurden in alle quadratischen Formen integriert und beschränken die Berechnung aller einfachen Formen auf eine gemeinsame Formel. Die anderen Formen sind ebenfalls in den Torus integriert. Transparenz, Schatten, Lichtintegrationen und Texturen wurden ebenfalls implementiert.</pc>
+        <pd>Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol).</pd>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

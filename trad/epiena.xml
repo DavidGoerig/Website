@@ -6,33 +6,35 @@
         <pc>Nous avons traité du sujet: "Comment faciliter le système de subvention en France". Ainsi nous avons tout d'abord, lors de l'atelier Nudge communiqué avec des personnes concernées: un président d'une association d'aide des jeunes en banlieu de Strasbourg, ainsi qu'à une personne s'occupant des attributions de subventions dans les Vosges. A l'atelier Design nous avons appris à ciblé l'application et créer des prototypes afin de se préparer pour le Hackathon final.</pc>
         <pd>Notre projet au final était une application permettant de joindre tout les services entre eux, avec une fonction préremplissant les dossiers (pour éviter la redondance des demandes annuelles) ainsi qu'un suivi continu afin que les demandes en deviennent presque instantannées.</pd>
         <pe>Voici les aticles couvrant l'évènement:</pe>
-        <linkmonde>Lien vers l'article du Monde sur l'évènement.</linkmonde>
-        <linkepi>Lien vers l'article de Epitech sur l'évènement.</linkepi>
-        <linkena>Lien vers l'article de l'ENA sur l'évènement.</linkena>
+        <linkmonde>Article du Monde sur l'évènement.</linkmonde>
+        <linkepi>Article de Epitech sur l'évènement.</linkepi>
+        <linkena>Article de l'ENA sur l'évènement.</linkena>
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
-        <pa>I was fortunate to be able to participate in Hackaton Epitech / ENA. Inter-school projects - ENA, Epitech, the General Secretariat for the Modernization of Public Action (SGMAP), ENSCI and the Brasserie (ideas) - aiming to "invent together, the new tools of the service public ".</pa>
-        <pb>These 3 days were divided into 3 "workshops": one oriented Design, the other on the Nudge and finally, the hackathon.</pb>
-        <pc>We dealt with the subject: "How to facilitate the subsidy system in France". So, first of all, at the Nudge workshop, we contacted the people concerned: a president of a youth aid association in the suburbs of Strasbourg, as well as someone responsible for awarding grants in the Vosges. At the Design Workshop we learned how to target the application and create prototypes to prepare for the final Hackathon.</pc>
-        <pd>In the end, our project was an application that made it possible to join all the services together, with a pre-filling function (to avoid the redundancy of the annual requests) and a continuous follow-up so that the requests become almost instantaneous.</pd>
+        <pa>I was very fortunate to be able to participate in the Hackaton Epitech/ENA. Inter-school projects - ENA, Epitech, the General Secretariat for the Modernisation of Public Action (SGMAP), the ENSCI and an think tank - aimed at "inventing together, the new public service tools".</pa>
+        <pb>These 3 days were divided into 3 "workshops": one focused on Design, the other on Nudge and last, the hackathon.</pb>
+        <pc>We dealt with the subject: "How to facilitate the subsidy system in France". First of all, during the Nudge workshop, we communicated with the people concerned: a president of an association for the support of young people in the suburbs of Strasbourg, as well as a person in charge of allocating subsidies in the Vosges. At the Design workshop we learned how to target the application and create prototypes to prepare for the final Hackathon.</pc>
+        <pd>In the end, our project was an application to connect all services together, with a pre-filling function for files (to avoid redundancy of annual requests) and continuous monitoring so that requests become almost instantaneous.</pd>
         <pe>Here are the articles covering the event:</pe>
-        <linkmonde>Link to the article of le Monde on the event.</linkmonde>
-        <linkepi>Link to the article of Epitech on the event.</linkepi>
-        <linkena>Link to the article of the World on the event.</linkena>
+        <linkmonde>"le Monde" article on the event.</linkmonde>
+        <linkepi>Epitech article on the event.</linkepi>
+        <linkena>Link to the article of "the World" on the event.</linkena>
 
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pa> Ich hatte das Glück, an Hackaton Epitech / ENA teilnehmen zu können. Inter-Schulprojekte - ENA, Epitech, das Generalsekretariat für die Modernisierung des öffentlichen Handelns (SGMAP), ENSCI und die Brasserie (Ideen) - mit dem Ziel, "neue Werkzeuge der Dienstleistungsöffentlichkeit zusammen zu erfinden". </pa>
-        <pb> Diese 3 Tage wurden in 3 "Workshops" aufgeteilt: ein orientiertes Design, das andere auf dem Nudge und schließlich der Hackathon. </pb>
-        <pc> Wir haben uns mit dem Thema befasst: "Wie kann das Subventionssystem in Frankreich erleichtert werden?" So haben wir zunächst beim Nudge-Workshop Kontakt zu den betroffenen Personen aufgenommen: einem Präsidenten eines Jugendhilfeverbandes in den Vororten von Straßburg sowie einem Verantwortlichen für die Vergabe von Stipendien in den Vogesen. Im Design Workshop haben wir gelernt, wie man die Anwendung anvisiert und Prototypen für den finalen Hackathon erstellt. </pc>
-        <pd> Am Ende war unser Projekt eine Anwendung, die es ermöglichte, alle Dienste zusammen zu verbinden, mit einer Pre-filling-Funktion (um die Redundanz der jährlichen Anfragen zu vermeiden) und einem kontinuierlichen Follow-up, so dass die Anfragen werden fast augenblicklich. </pd>
-        <pe> Hier sind die Artikel über die Veranstaltung: </pe>
+        <pa> Ich hatte das Glück, am Hackaton der Epitech/ENA teilzunehmen. Dabei handelt es sich um ein gemeinschaftliches Schulprojekt der ENA, Epitech, des Generalsekretariats für die Modernisierung des öffentlichen Handelns (SGMAP), ENSCI und einer Ideenfabrik mit dem Ziel, "neue Werkzeuge der Dienstleistungsöffentlichkeit zusammen zu erfinden".</pa>
+        <pb> Das Event dauerte drei Tage und gliederte sich in drei Workshops: orientiertes Design, dem Nudge und dem Hackathon.</pb>
+        <pc> Wir haben uns mit dem Thema: "Wie kann das Subventionssystem in Frankreich erleichtert werden?" befasst. Zunächst haben wir im Nudge-Workshop Kontakt zu den betroffenen Personen aufgenommen. Unsere Kontaktpersonen war ein Präsident eines Jugendhilfsverband aus den Vororten von Straßburg, sowie einem Verantwortlichen für die Vergabe von Stipendien in den Vogesen. Im Design-Workshop haben wir gelernt, wie man die Anwendung anvisiert und Prototypen für den finalen Hackathon erstellt.</pc>
+        <pd> Unser Projekt war letztendlich eine Anwendung, um alle Dienste miteinander zu verbinden, mit einer Vorfüllfunktion für Dateien (um Redundanzen bei jährlichen Anfragen zu vermeiden) und einer kontinuierlichen Überwachung, so dass Anfragen fast sofort bearbeitet werden können.</pd>
+        <pe> Unter folgenden Links finden Sie Beiträge aus den Medien (nur auf Französisch): </pe>
         <linkmonde> Link zum Artikel von le Monde über die Veranstaltung. </linkmonde>
         <linkepi> Link zum Artikel von Epitech über die Veranstaltung. </linkepi>
         <linkena> Link zum Artikel der Welt über die Veranstaltung. </linkena>
@@ -40,5 +42,6 @@
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

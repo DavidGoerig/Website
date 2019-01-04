@@ -8,25 +8,28 @@
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
 
-        <pa> I made a copy of the famous Bomberman game. The goal of this game made in C ++ was to create a complete project, bringing together technical problems such as multiplayer (with the multi-thread), Windows / Linus portativity or the creation IA. This project includes documentation and a complete UML.</pa>
+        <pa> I made a copy of the famous Bomberman game. The goal of this game created in C++ was to create a complete project that combines technical problems like multiplayer (with multi-threading), Windows/Linus compatibility or IA creation. This project includes a complete UML and detailed documentation. I used the Irrlicht graphics library. The goal was not to have prefabricated works like on the currently known Framework/Game Editor.</pa>
         <pb> I used the Irrlicht graphics library. The goal was not to have a premachio work like on the current known "framework" / game editor.</pb>
         <pc>The sources and the documentation are present in the Github of the project (click on the icon).</pc>
-        <dld>Consult the project presentation sheet.</dld>
+        <dld>The sources and documentation are available in the project Github (click on the icon).</dld>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
 
-        <pa> Ich habe eine Kopie des berühmten Bomberman-Spiels gemacht. Das Ziel dieses Spiels in C ++ war es, ein komplettes Projekt zu erstellen, das technische Probleme wie Multiplayer (mit Multi-Thread), Windows / Linux-Portabilität oder die Erstellung von IA zusammenbringt. Dieses Projekt beinhaltet Dokumentation und eine komplette UML. </pa>
+        <pa> Ich habe eine Kopie des berühmten Bomberman-Spiels gemacht. Das Ziel dieses in C++ erstellten Spiels war es, ein komplettes Projekt zu erstellen, das technische Probleme wie Multiplayer (mit Multi-Threading), Windows/Linus-Kompatbilität oder IA-Erstellung vereint. Dieses Projekt beinhaltet eine vollständige UML und eine ausführliche Dokumentation. Ich habe die Irrlicht Grafikbibliothek verwendet. Das Ziel war es, keine vorgefertigten Arbeiten wie auf dem aktuell bekannten Framework/Game Editor zu haben.</pa>
         <pb> Ich habe die Irrlicht-Grafikbibliothek benutzt. Das Ziel war nicht, dass ein Pre-machio wie bei dem derzeit bekannten "Framework" / Spiele-Editor funktioniert. </pb>
         <pc> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pc>
-        <dld> Konsultieren Sie das Projekt-Präsentationsblatt. </dld>
+        <dld> Die Quellen und Dokumentationen sind im Projekt Github verfügbar (klicken Sie auf das Symbol). </dld>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

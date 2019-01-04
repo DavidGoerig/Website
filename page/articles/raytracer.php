@@ -143,7 +143,7 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
             <div class="row">
 
                 <div class="col-lg-2 col-lg-offset-1">
-                    <h5>CONTACT</h5>
+                    <h5><?php echo $_SESSION['xmllang']->contact;?></h5>
                 </div>
                 <div class="col-lg-6">
                     <p><t>Email</t><br/>
@@ -158,8 +158,6 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
                 <div class="col-lg-3">
                     <p><sm><?php echo $_SESSION['xmllang']->lsos;?></sm></p>
                     <p>
-                        <a href="https://twitter.com/david_goerig"><i class="icon-twitter"></i></a>
-                        <a href="https://www.facebook.com/GoerigDavid"><i class="icon-facebook"></i></a>
                         <a href="https://www.linkedin.com/in/david-goerig-056212139/"><i class="icon-linkedin"></i></a>
                         <a href="https://github.com/DavidGoerig"><i class="icon-github"></i></a>
                     </p>

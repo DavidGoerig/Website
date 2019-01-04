@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <traduction>
     <fr>
-        <pa>J'ai réalisé un projet Unity ayant comme but de créer un MMORPG.</pa>
-        <pb>Le résultat est tout sauf complet, cependant il y a les principals aspect que je voulais traité qui sont inclus, soit: possibilité de connecter jusqu'à une centaine de joueurs, un systeme de classe, des attaques, une interface de connexion, une charte graphique personnalisée avec Blender 3D.</pb>
-        <pc>Je ne peux le publier publiquement à cause des assets, mais je peux vous fournir l'executable ou vous envoyer les sources si vous me contactez.</pc>
+        <pa> J'ai réalisé un projet Unity ayant comme but de créer un MMORPG.</pa>
+        <pb> Le résultat est tout sauf complet, cependant il y a les principals aspect que je voulais traité qui sont inclus, soit: possibilité de connecter jusqu'à une centaine de joueurs, un systeme de classe, des attaques, une interface de connexion, une charte graphique personnalisée avec Blender 3D.</pb>
+        <pc> Je ne peux le publier publiquement à cause des assets, mais je peux vous fournir l'executable ou vous envoyer les sources si vous me contactez.</pc>
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
-        <pa>I realized a Unity project with the goal of creating a MMORPG.</pa>
-        <pb>The result is anything but complete, there are the main aspects that I would like to deal with that are included: possibility to connect to a player center, a class system, attacks, a login interface , a personalized graphic chart with Blender 3D.</pb>
-        <pc>I can not publish publicly because of the assets, but I can provide you with executable files or send the sources if you contact me.</pc>
+        <pa> I realized a Unity project with the goal of creating a MMORPG.</pa>
+        <pb> The result is anything but complete, but there are the main aspects I wanted to address that are included, namely: possibility to connect up to a hundred players, a class system, attacks, a connection interface, a custom graphic charter with Blender 3D.</pb>
+        <pc> I can't publish it publicly because of the assets, but I can provide you with the executable or send you the sources if you contact me.</pc>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pa> Ich habe ein Unity-Projekt mit dem Ziel realisiert, ein MMORPG zu erstellen. </pa>
-        <pb> Das Ergebnis ist alles andere als vollständig, da sind die Hauptaspekte, mit denen ich mich befassen möchte: die Möglichkeit, sich mit einem Player-Center, einem Klassensystem, Angriffen, einer Login-Oberfläche, einer personalisierten Grafikkarte mit Blender zu verbinden 3D. </pb>
-        <pc> Ich kann aufgrund der Assets nicht öffentlich veröffentlichen, aber ich kann ausführbare Dateien bereitstellen oder die Quellen senden, wenn Sie mich kontaktieren. </pc>
+        <pa> Ich habe ein Unity-Projekt realisiert mit dem Ziel, ein MMORPG zu erstellen.</pa>
+        <pb> Das Ergebnis ist unvollständig, aber es beinhaltet die Hauptaspekte, die ich ansprechen wollte: die Möglichkeit sich mit bis zu hundert Spielern zu verbinden, ein Klassensystem, Angriffe, eine Verbindungsschnittstelle und einen benutzerdefinierten Grafikcharter mit Blender 3D.</pb>
+        <pc> Ich kann es wegen der Vermögenswerte nicht öffentlich veröffentlichen, aber ich kann Ihnen die ausführbare Datei zur Verfügung stellen oder Ihnen die Quellen schicken, wenn Sie mich kontaktieren.</pc>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

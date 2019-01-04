@@ -11,28 +11,32 @@
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
         <dld>Télécharger le rapport de stage</dld>
+        <contact>Contact</contact>
     </fr>
     <en>
         <pres>INTERNSHIP PROJECT IN CLEMESSY</pres>
-        <pa>The subject of my internship is the development of a "synoptic editor" for monitoring and controlling industrial installations. These synoptics manipulate information managed by an OPC server, transmitted in the form of variables, collecting its information on field PLCs.</pa>
-        <pb>A synoptic designates a graphic presentation, which makes it possible to catch a complex system at a glance. The adjective "synoptic" evokes the idea of ​​"seeing together".</pb>
-        <pc>Here the purpose of these synoptics is to represent the information that different PLCs transmit to an OPC server. These synoptics are represented in the form of "vector drawing" where each element represents a return of an automaton. But these synoptics also allow the control of automata variables.</pc>
-        <pd>The subject is part of a global modernization project (migration) of the existing product of Centralized Technical Management (GTC / GTB) named Synauto to a new fully WEB GTC-WEB version. I was led to realize in addition to the main subject of work on this application. This work consisted mainly in the realization of synoptic for GTC-WEB, the modernized version of the old GTC.</pd>
+        <pa>The subject of my internship is the development of a "synoptic editor allowing the monitoring and control of industrial installations. These synoptics manipulate information managed by an OPC server, transmitted in the form of variables, collecting its information on field automatons (PLCs).</pa>
+        <pb>A synoptic designates a graphic presentation, which makes it possible to catch a complex system at a glance. The adjective "synoptic" evokes the idea of "seeing as a whole".</pb>
+        <pc>Here the purpose of these synoptics is to represent the information that different PLCs transmit to an OPC server. These synoptics are represented in the form of "vector drawing" where each element represents a return from an automaton. But these synoptics also allow the control of automata variables.</pc>
+        <pd>The subject is part of a global project to modernize (migrate) the existing Centralized Technical Management (CTM / BMS) product called Synauto to an entirely new version WEB CTM-WEB. In addition to the main subject, I was asked to carry out work on this application. This work consisted mainly of the creation of synoptics for GTC-WEB, the modernized version of the former GTC.</pd>
         <pe>The realization of this editor allowed me to see all the phases of development: Analysis, development, tests and recipe, commissioning, documentation. The technologies used were: JavaScript, Java, Bootstrap, AngularJS, HTML5, CSS3, Hibernate (Oracle database).</pe>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
         <dld>Download internship report</dld>
+        <contact>Contact</contact>
     </en>
     <ger>
         <pres>PRAKTIKUMSPROJEKT IN CLEMESSY</pres>
-        <pa>Das Thema meines Praktikums ist die Entwicklung eines "synoptischen Editors" zur Überwachung und Steuerung von Industrieanlagen. Diese Synoptiker manipulieren Informationen, die von einem OPC-Server verwaltet werden, übertragen in Form von Variablen und sammeln ihre Informationen über Feld-PLCs.</pa>
-        <pb>Eine Synoptik bezeichnet eine grafische Darstellung, die es ermöglicht, ein komplexes System auf einen Blick zu erfassen. Das Adjektiv "synoptisch" evoziert die Idee des "Zusammenseins".</pb>
-        <pc>Der Zweck dieser Synoptiken besteht darin, die Informationen darzustellen, die verschiedene SPS an einen OPC-Server senden. Diese Synoptiken werden in Form von "Vektorzeichnungen" dargestellt, wobei jedes Element eine Rückgabe eines Automaten darstellt. Aber diese Synoptiken erlauben auch die Kontrolle von Automatenvariablen.</pc>
-        <pd>Das Thema ist Teil eines globalen Modernisierungsprojekts (Migration) des bestehenden Produkts der Zentralen Technischen Verwaltung (GTC / GTB) namens Synauto zu einer neuen vollwertigen WEB GTC-WEB Version. Ich wurde dazu gebracht, neben dem Hauptthema die Arbeit an dieser Anwendung zu realisieren. Diese Arbeit bestand hauptsächlich in der Realisierung von synoptic für GTC-WEB, der modernisierten Version der alten AGB.</pd>
+        <pa>Das Thema meines Praktikums ist die Entwicklung eines "synoptischen Editors" zur Überwachung und Steuerung von Industrieanlagen. Diese Synoptiker manipulieren Informationen, die in Form von Variablen übertragen werden und die ihre Informationen über Feld-PLCs sammeln.</pa>
+        <pb>Eine Synoptik ist eine grafische Darstellung, die es Ihnen ermöglicht, ein komplexes System auf einen Blick zu erfassen. Das Adjektiv "synoptisch" bedeutet so viel wie "übersichtlich Zusammengefasst".</pb>
+        <pc>Der Zweck dieser Synoptiken besteht darin, die Informationen darzustellen, die verschiedene SPS an einen OPC-Server senden. Diese Synoptiken werden in Form von "Vektorzeichnungen" dargestellt, wobei jedes Element eine Rückgabe eines Automaten darstellt. Diese Synoptiken erlauben auch die Kontrolle von Automatenvariablen.</pc>
+        <pd>Das Thema ist Teil eines globalen Modernisierungsprojekts (Migration) des bestehenden Produkts der Zentralen Technischen Verwaltung (GTC / GTB) namens Synauto zu einer neuen vollwertigen WEB GTC-WEB Version Zusätzlich zum Hauptthema wurde ich gebeten, an diesem Antrag zu arbeiten. Diese Arbeit bestand hauptsächlich aus der Erstellung von Synoptiken für GTC-WEB, der modernisierten Version der ehemaligen AGB.</pd>
         <pe>Die Realisierung dieses Editors erlaubte mir, alle Phasen der Entwicklung zu sehen: Analyse, Entwicklung, Tests und Rezept, Inbetriebnahme, Dokumentation. Die verwendeten Technologien waren: JavaScript, Java, Bootstrap, AngularJS, HTML5, CSS3, Hibernate (Oracle-Datenbank).</pe>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <dld>Praktikumsbericht herunterladen</dld>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

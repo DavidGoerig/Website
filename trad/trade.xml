@@ -9,23 +9,27 @@
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
-        <pa>The first programm is a small trade algorithm, taker over a year many cash flow (here crypto currencies, raw materials, stock exchange and forex). Principally work with the bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.</pa>
-        <pb>The second is a shell that allow you to show at any time the bollinger bands, to buy or sell currencies, change parameters of the bollinger band, etc.</pb>
-        <pc>They were made with Python. For exemples I made parser that send all currencies of 2017, but it is only for offline purpose, we can easily use an API and take daily currencies.</pc>
+        <pa>The first program is a small trade algorithm, taking many cash flows over a year (here cryptographic currencies, commodities, stock exchange and forex). I have worked mainly with bollinger band, the aim is the maximization of profits according to the fluctuation of several simultaneous courses and their evolutions.</pa>
+        <pb>The second is a shell that allows you to show bollinger bands at any time, to buy or sell currencies, change parameters of the bollinger band, etc.</pb>
+        <pc>They were made with Python. For examples, I made an analyzer that sends all currencies of 2017, but it is only for offline purpose, we can easily use an API and take daily currencies.</pc>
         <pd>The sources and the documentation are present in the Github of the project (click on the icon).</pd>
 
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pa>Das erste Programm ist ein kleiner Handelsalgorithmus, der über ein Jahr viele Cashflows (hier Kryptowährungen, Rohstoffe, Börsen und Devisen) aufnimmt. Arbeiten Sie hauptsächlich mit dem Bollinger Band, das Ziel ist die Gewinnmaximierung entsprechend der Fluktuation mehrerer gleichzeitiger Kurse und ihrer Entwicklung.</pa>
-        <pb> Die zweite ist eine Shell, mit der Sie jederzeit die Bollinger-Bänder anzeigen, Währungen kaufen oder verkaufen, Parameter des Bollinger-Bandes ändern können. </pb>
-        <pc> Sie wurden mit Python gemacht. Für Beispiele habe ich Parser gemacht, der alle Währungen von 2017 sendet, aber es ist nur für Offline-Zwecke, können wir einfach eine API verwenden und tägliche Währungen nehmen. </pc>        <pd> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pd>
+        <pa>Das erste Programm ist ein Handelsalgorithmus, der viele Cashflows über ein Jahr hinweg durchläuft (hier kryptographische Währungen, Rohstoffe, Börse und Devisen). Ich habe hauptsächlich mit den Bollinger-Bändern gearbeitet, das Ziel ist es, die Gewinne zu maximieren, basierend auf der Fluktuation mehrerer gleichzeitiger Preise und deren Entwicklung.</pa>
+        <pb>Die zweite ist eine Shell, mit der Sie jederzeit Bollingerbänder anzeigen, Währungen kaufen oder verkaufen, Bollingerbandeinstellungen ändern usw. können.</pb>
+        <pc> Diese wurden in Python hergestellt. Für Beispiele habe ich Parser gemacht, der alle Währungen von 2017 sendet, aber es ist nur für Offline-Zwecke, können wir einfach eine API verwenden und tägliche Währungen nehmen. </pc>
+        <pd> Die Quellen und die Dokumentation sind im Github des Projekts vorhanden (klicken Sie auf das Symbol). </pd>
         <adress>Address</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

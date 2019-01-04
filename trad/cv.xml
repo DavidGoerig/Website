@@ -40,9 +40,11 @@
         <bombermanr>J'ai réalisé une copie de Bomberman pouvant se jouer contre une IA ou en écran scindé. Ce projet comporte un diagramme UML et une documention complète. Il a été codé en C++ avec la librairie Irrlicht et est jouable sur Linux ou windows.</bombermanr>
         <pythonml>J'ai étudié le livre "Introduction à l'apprentissage automatique avec Python" de Sarah Guido et Andreas Mueller. Il utilise les bibliothèques matplotlib et NumPy. J'ai aussi fait ma première application afin de tester ce que j'ai appris. Cela m'a vraiment donné les bases du machine learning.</pythonml>
         <emtech>J'ai eu la chance d'être invité par EPITECH à la conférence EMTECH EUROPE à Toulouse.</emtech>
+        <nodejs>J'ai réalisé un dashboard en NodeJS.</nodejs>
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
         <pres>Full stack developer</pres>
@@ -81,12 +83,14 @@
         <bombermanr>I made a copy of Bomberman that can be played against an AI or split screen. This project includes a UML diagram and a complete documention. It has been coded in C ++ with the Irrlicht library and is playable on Linux or windows.</bombermanr>
         <pythonml>I studied the book "Introduction to Machine Learning with Python" by Sarah Guido and Andreas Mueller. It use the matplotlib and NumPy libraries. I also made first program in order to test what i learned. It really gave me the basics of machine learning.</pythonml>
         <emtech>I had the chance to be invited by EPITECH to the EMTECH EUROPE conference in Toulouse.</emtech>
+        <nodejs>I made a dashboard in NodeJS.</nodejs>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pres>Vollstapel-Entwickler</pres>
+        <pres>Full-Stack-Entwickler</pres>
         <education>AUSBILDUNG</education>
         <master>Software und Computer engineering</master>
         <year>Im dritten Lehrjahr</year>
@@ -122,8 +126,10 @@
         <bombermanr> Ich habe eine Kopie von Bomberman gemacht, die gegen eine KI oder einen geteilten Bildschirm gespielt werden kann. Dieses Projekt enthält ein UML-Diagramm und eine vollständige Dokumentation. Es wurde in C ++ mit der Irrlicht-Bibliothek kodiert und ist unter Linux oder Windows spielbar. </bombermanr>
         <pythonml> Ich habe das Buch "Einführung in maschinelles Lernen mit Python" von Sarah Guido und Andreas Müller studiert. Es verwendet die Matplotlib- und NumPy-Bibliotheken. Ich habe auch das erste Programm gemacht, um zu testen, was ich gelernt habe. Es gibt mir die Grundlagen des maschinellen Lernens. </pythonml>
         <emtech>Ich hatte die Gelegenheit, von EPITECH zur EMTECH EUROPE-Konferenz in Toulouse eingeladen zu werden.</emtech>
+        <nodejs>Ich habe ein Dashboard in NodeJS erstellt.</nodejs>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

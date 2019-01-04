@@ -6,19 +6,22 @@
         <adress>Adresse</adress>
         <lsos>LIENS SOCIAUX</lsos>
         <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
     </fr>
     <en>
-        <pa> I had the chance to be invited by EPITECH to attend the EMTECH Toulouse conference organized by MIT. It's one of the biggest international meetings on emerging technologies. EmTech is considered the world's leading technology conference of the future. For two days, experts from around the world came to present us and discussed the latest technologies in high-tech: virtual reality, artificial intelligence, biotechnology and collaborative economy.</pa>
-        <pb>Here are the photos I took during the event:</pb>
+        <pa> I was invited by EPITECH to participate in the EMTECH Toulouse Conference. It is one of the largest international meetings on new technologies. EMTECH is considered to be the most important global conference on the topic of "future technologies". Over two days, experts from all over the world came to present and discuss the latest high-tech technologies: Virtual Reality, Artificial Intelligence, Biotechnology and Collaborative Economy.</pa>
+        <pb>Here are the pictures I took during the event:</pb>
         <adress>Address</adress>
         <lsos>SOCIAL LINKS</lsos>
         <created>Created by David Goerig</created>
+        <contact>Contact</contact>
     </en>
     <ger>
-        <pa> Ich hatte die Gelegenheit, von EPITECH eingeladen zu werden, an der vom MIT organisierten EMTECH Toulouse-Konferenz teilzunehmen. Es ist eines der größten internationalen Treffen zu neuen Technologien. EmTech gilt als die weltweit führende Technologiekonferenz der Zukunft. Zwei Tage lang kamen Experten aus aller Welt zu uns und diskutierten über die neuesten Technologien im Bereich High-Tech: Virtuelle Realität, künstliche Intelligenz, Biotechnologie und kollaborative Wirtschaft.</pa>
-        <pb>Hier sind die Fotos, die ich während der Veranstaltung gemacht habe:</pb>
+        <pa> Ich wurde von EPITECH eingeladen an der EMTECH Toulouse Konferenz teilzunehmen. Es ist eines der größten internationalen Treffen zum Thema «neuen Technologien». Die EMTECH gilt als die wichtigste globale Konferenz zum Themengebiet «Zukunftstechnologien». An zwei Tagen kamen Experten aus der ganzen Welt, um uns die neuesten Hightech-Technologien vorzustellen und zu diskutieren: Virtual Reality, Künstliche Intelligenz, Biotechnologie und kollaborative Wirtschaft.</pa>
+        <pb>Hier sind die Bilder, die ich während der Veranstaltung gemacht habe:</pb>
         <adress>Adresse</adress>
         <lsos>SOZIALE INTERNETLINKS</lsos>
         <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
     </ger>
 </traduction>

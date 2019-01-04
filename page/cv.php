@@ -438,7 +438,7 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 						<sm><i class="icon-tag"></i> python</sm></more>
 					</p>
 				</div>
-            <!-- Article EMTECH en python -->
+            <!-- Article EMTECH -->
             <div class="col-lg-6 col-lg-offset-3">
                 <a href="./articles/emtech.php?lang=<?php echo $_SESSION['lang'];?>"><img class="img-responsive" src="../assets/img/port10.bmp" alt="" border="0"></a>
             </div>
@@ -447,6 +447,17 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
                 <p><more><?php echo $_SESSION['xmllang']->pythonml;?>
                         <sm><i class="icon-tag"></i> EMTECH</sm>
                         <sm><i class="icon-tag"></i> MIT</sm></more>
+                </p>
+            </div>
+            <!-- Article NODEJS -->
+            <div class="col-lg-6 col-lg-offset-3">
+                <a href="./articles/nodeapp.php?lang=<?php echo $_SESSION['lang'];?>"><img class="img-responsive" src="../assets/img/port11.bmp" alt="" border="0"></a>
+            </div>
+            <div class="col-lg-3">
+                <p>NODEJS DASHBOARD</p>
+                <p><more><?php echo $_SESSION['xmllang']->nodejs;?>
+                        <sm><i class="icon-tag"></i> NODEJS</sm>
+                        <sm><i class="icon-tag"></i> DASHBOARD</sm></more>
                 </p>
             </div>
 		</div><!--/.row -->
@@ -461,7 +472,7 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 			<div class="row">
 			
 				<div class="col-lg-2 col-lg-offset-1">
-					<h5>CONTACT</h5>
+					<h5><?php echo $_SESSION['xmllang']->contact;?></h5>
 				</div>
 				<div class="col-lg-6">
 					<p><t>Email</t><br/>
@@ -476,8 +487,6 @@ $_SESSION['xmllang'] = $bibliotheque->$lang;
 				<div class="col-lg-3">
 					<p><sm><?php echo $_SESSION['xmllang']->lsos;?></sm></p>
 					<p>
-						<a href="https://twitter.com/david_goerig"><i class="icon-twitter"></i></a>
-						<a href="https://www.facebook.com/GoerigDavid"><i class="icon-facebook"></i></a>
 						<a href="https://www.linkedin.com/in/david-goerig-056212139/"><i class="icon-linkedin"></i></a>
                         <a href="https://github.com/DavidGoerig"><i class="icon-github"></i></a>
 					</p>

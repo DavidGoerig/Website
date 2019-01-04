@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<traduction>
+    <fr>
+        <pa> J'ai réalisé un projet en NodeJS utilisant la base de donnée MongoDB. Le but de ce projet est de créer un Dashboard qui contient des widgets d'informations (actuellement des widgets météo, Youtube, Steam).</pa>
+        <pc>Les sources et la documentation sont présentes dans le Github du projet (cliquer sur l'icone).</pc>
+        <adress>Adresse</adress>
+        <lsos>LIENS SOCIAUX</lsos>
+        <created>Créé par David Goerig</created>
+        <contact>Contact</contact>
+    </fr>
+    <en>
+        <pa> I have done a project in NodeJS using the MongoDB database. The purpose of this project is to create a Dashboard that contains information widgets (currently weather widgets, Youtube, Steam).</pa>
+        <pc> The sources and documentation are available in the project Github (click on the icon).</pc>
+        <adress>Address</adress>
+        <lsos>SOCIAL LINKS</lsos>
+        <created>Created by David Goerig</created>
+        <contact>Contact</contact>
+    </en>
+    <ger>
+        <pa> Ich habe ein Projekt in NodeJS mit der MongoDB-Datenbank durchgeführt. Der Zweck dieses Projekts ist es, ein Dashboard zu erstellen, das Informationswidgets enthält (derzeit Wetterwidgets, Youtube, Steam).</pa>
+        <pc> Die Quellen und Dokumentationen sind im Projekt Github verfügbar (klicken Sie auf das Symbol).</pc>
+        <adress>Adresse</adress>
+        <lsos>SOZIALE INTERNETLINKS</lsos>
+        <created>Erstellt von David Goerig</created>
+        <contact>Kontakt</contact>
+    </ger>
+</traduction>
